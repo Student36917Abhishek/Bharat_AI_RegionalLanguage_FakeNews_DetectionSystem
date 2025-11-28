@@ -1,0 +1,182 @@
+[
+    {
+        "url": "https://www.reddit.com/gallery/1hob4jn",
+        "original_text": "I'm quite confused after looking at all the conflicting images on the internet regarding how much area was actually covered by the Maratha Empire at its greatest extent or peak. I found the first two images randomly, while the third is from Wikipedia, and the fourth is from the Maharashtra state board textbook.\n\nWikipedia and several other online sources claim that the Maratha Empire, at its peak, covered an area of around 2.5–2.8 million square kilometers. For comparison, the size of modern-day India is approximately 3.3 million square kilometers. The area controlled by the Marathas was indeed quite large, and I believe this estimate includes regions under their influence or vassal states as well. This makes the Maratha Empire the sixth largest in Indian history, including the Republic of India, which is quite an achievement given the highly volatile and unpredictable nature of 18th-century India.\n\nAccording to Wikipedia, at its zenith, the Maratha Empire expanded from Punjab in the north to Hyderabad in the south and from Kutch in the west to Oudh in the east, bordering Oudh and Rajputana in the north. However, these geographic terms are somewhat vague and not very specific. There is also a famous Marathi saying that the empire stretched \"from Attock to Cuttack\" (अटक से कटक), i.e., from Attock in modern-day Pakistan in the northwest to Cuttack in the east, and from southern Kashmir to Tanjavur in the south. Additionally, a Wikipedia page about the Battle of Peshawar in 1758 mentions that the Maratha army, under Peshwa Raghunath Rao and allied with the Sikhs, defeated the Durranis and briefly captured Peshawar, making it the northwestern frontier of the empire.\n\nHow can these facts be reconciled to arrive at a factually accurate conclusion?\n",
+        "translated_text": "I'm quite confused after looking at all the conflicting images on the internet regarding how much area was actually covered by the Maratha Empire at its greatest extent or peak. I found the first two images randomly, while the third is from Wikipedia, and the fourth is from the Maharashtra state board textbook.\n\nWikipedia and several other online sources claim that the Maratha Empire, at its peak, covered an area of around 2.Translation error: 'NoneType' object has no attribute 'shape'8 million square kilometers. For comparison, the size of modern-day India is approximately 3.3 million square kilometers. The area controlled by the Marathas was indeed quite large, and I believe this estimate includes regions under their influence or vassal states as well. This makes the Maratha Empire the sixth largest in Indian history, including the Republic of India, which is quite an achievement given the highly volatile and unpredictable nature of 18th-century India.\n\nAccording to Wikipedia, at its zenith, the Maratha Empire expanded from Punjab in the north to Hyderabad in the south and from Kutch in the west to Oudh in the east, bordering Oudh and Rajputana in the north. However, these geographic terms are somewhat vague and not very specific.Translation error: 'NoneType' object has no attribute 'shape'e., from Attock in modern-day Pakistan in the northwest to Cuttack in the east, and from southern Kashmir to Tanjavur in the south. Additionally, a Wikipedia page about the Battle of Peshawar in 1758 mentions that the Maratha army, under Peshwa Raghunath Rao and allied with the Sikhs, defeated the Durranis and briefly captured Peshawar, making it the northwestern frontier of the empire.\n\nHow can these facts be reconciled to arrive at a factually accurate conclusion?\n",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 2,
+        "translation_details": {
+            "5–2.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "hin_Deva",
+                "detection_method": "fallback",
+                "confidence": "low"
+            },
+            " There is also a famous Marathi saying that the empire stretched \"from Attock to Cuttack\" (अटक से कटक), i.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "eng_Latn",
+                "detection_method": "custom_detection",
+                "confidence": 2
+            }
+        }
+    },
+    {
+        "url": "https://i.redd.it/ky2nx7hqfvcd1.png",
+        "original_text": "The last great major Indian Empire before the British East India Company conquest was the Sikh Empire, which was conquered by the EIC in 1849 AD, 31 years after the fall of the Maratha Empire. However, the size of the Sikh Empire was roughly 1/4 that of the Maratha Empire.",
+        "translated_text": "The last great major Indian Empire before the British East India Company conquest was the Sikh Empire, which was conquered by the EIC in 1849 AD, 31 years after the fall of the Maratha Empire. However, the size of the Sikh Empire was roughly 1/4 that of the Maratha Empire.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/IndiaSpeaks/comments/td9kod/do_you_think_the_maratha_empire_is_being/",
+        "original_text": "Not that they were bad. They were decent rulers and ruled a considerable amount of subcontinent for a while, but lately politicians and Bollywood actors have disproportionately given excess weightage to the Marathas compared to the other glorious empires our nation has throughout it's 3000 year old history. \n\nWhy is Shivaji portrayed as a Ruler from a totally different league compared to other kings throughout history? What's the reason behind it? Why aren't excellent rulers from other parts of the nation as much in limelight than the Marathas? Anything other than \"Marathas were good and Mughals were bad\" comment would be appreciated. Asking in good faith.",
+        "translated_text": "Not that they were bad. They were decent rulers and ruled a considerable amount of subcontinent for a while, but lately politicians and Bollywood actors have disproportionately given excess weightage to the Marathas compared to the other glorious empires our nation has throughout it's 3000 year old history. \n\nWhy is Shivaji portrayed as a Ruler from a totally different league compared to other kings throughout history? What's the reason behind it? Why aren't excellent rulers from other parts of the nation as much in limelight than the Marathas? Anything other than \"Marathas were good and Mughals were bad\" comment would be appreciated. Asking in good faith.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://i.redd.it/cyk4ux7sg6ff1.jpeg",
+        "original_text": "📜 Historical Truth:\n\n1. Shivaji Maharaj founded the Maratha Empire in 1674, but the massive expansion happened later under the Peshwas, especially Baji Rao I and Balaji Baji Rao.\n\n\n2. By 1759, the Maratha Empire:\n\nControlled or extracted tax (chauth) from Punjab (including Peshawar, Lahore)\n\nDominated Delhi, Agra, Bengal, Odisha\n\nHad military influence in Hyderabad and Tamil Nadu\n\n\n\n3. The Marathas were de facto rulers of Delhi from 1752 to 1803 (till British took over fully).\n\n\n\n\n---\n\n📘 NCERT Confirmation:\n\nClass 7: Our Pasts II – Chapter 10: Eighteenth-Century Political Formations\n\nDescribes Marathas as the most powerful regional kingdom after the Mughals.\n\nIncludes maps showing their territorial reach similar to the one you shared.\n\n\nClass 12: Themes in Indian History – Part III\n\nDiscusses the rise of regional powers like Marathas after Mughal decline.\n\nMentions Third Battle of Panipat (1761) as a key turning point in Maratha history.\n\n\n\n🏛️ Bonus: UNESCO Recognition\n\nIn 2024–25, UNESCO declared 12 Maratha forts as World Heritage Sites, further proving the global recognition of Maratha military power and spread.",
+        "translated_text": "Translation error: 'NoneType' object has no attribute 'shape' Shivaji Maharaj founded the Maratha Empire in 1674, but the massive expansion happened later under the Peshwas, especially Baji Rao I and Balaji Baji Rao.\n\n\n2. By 1759, the Maratha Empire:\n\nControlled or extracted tax (chauth) from Punjab (including Peshawar, Lahore)\n\nDominated Delhi, Agra, Bengal, Odisha\n\nHad military influence in Hyderabad and Tamil Nadu\n\n\n\n3. The Marathas were de facto rulers of Delhi from 1752 to 1803 (till British took over fully).Translation error: 'NoneType' object has no attribute 'shape'\n\nIncludes maps showing their territorial reach similar to the one you shared.Translation error: 'NoneType' object has no attribute 'shape'\n\nMentions Third Battle of Panipat (1761) as a key turning point in Maratha history.Translation error: 'NoneType' object has no attribute 'shape'",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 4,
+        "translation_details": {
+            "📜 Historical Truth:\n\n1.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "eng_Latn",
+                "detection_method": "langdetect",
+                "confidence": "high"
+            },
+            "\n\n\n\n\n---\n\n📘 NCERT Confirmation:\n\nClass 7: Our Pasts II – Chapter 10: Eighteenth-Century Political Formations\n\nDescribes Marathas as the most powerful regional kingdom after the Mughals.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "eng_Latn",
+                "detection_method": "langdetect",
+                "confidence": "high"
+            },
+            "\n\n\nClass 12: Themes in Indian History – Part III\n\nDiscusses the rise of regional powers like Marathas after Mughal decline.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "eng_Latn",
+                "detection_method": "langdetect",
+                "confidence": "high"
+            },
+            "\n\n\n\n🏛️ Bonus: UNESCO Recognition\n\nIn 2024–25, UNESCO declared 12 Maratha forts as World Heritage Sites, further proving the global recognition of Maratha military power and spread.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "eng_Latn",
+                "detection_method": "langdetect",
+                "confidence": "high"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/IndianHistory/comments/1ic7uci/did_people_residing_in_mughal_empire_saw_maratha/",
+        "original_text": "It’s ought to be something as the taxes and all may change.\n\nThe question is about people who lived in the empire, not the royals.",
+        "translated_text": "Translation error: 'NoneType' object has no attribute 'shape'\n\nThe question is about people who lived in the empire, not the royals.",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 1,
+        "translation_details": {
+            "It’s ought to be something as the taxes and all may change.": {
+                "translation": "Translation error: 'NoneType' object has no attribute 'shape'",
+                "detected_lang": "eng_Latn",
+                "detection_method": "langdetect",
+                "confidence": "high"
+            }
+        }
+    },
+    {
+        "url": "https://v.redd.it/g835jn06y5nf1",
+        "original_text": "Imagine a game set in 16th Century Maratha Empire, during the times of Chatrapati Shivaji. ",
+        "translated_text": "Imagine a game set in 16th Century Maratha Empire, during the times of Chatrapati Shivaji. ",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/gallery/1i0ct0y",
+        "original_text": "\n\nLohagad is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala and 52 km (32 mi) northwest of Pune, Lohagad rises to an elevation of 1,033 m (3,389 ft) above sea level. The fort is connected to the neighboring Visapur fort by a small range. The fort was under the Lohtamia empire for the majority of the time, with a short period of 5 years under the Mughal empire.\n\n*The initial construction of Lohagad Fort is attributed to the Lohtamia dynasty, who ruled the region during the 10th century CE, the fort was under them for the longest period*. \n\n*Lohagad has a long history with several dynasties occupying it at different periods of time: Lohtamia, Chalukyas, Rashtrakutas, Bahamanis, Nizams, Mughals and Marathas etc. Chatrapati Shivaji Maharaj captured it in 1648*.\n\n*Sources* :-\n\n*Maharashtra Tourism* :- https://maharashtratourism.gov.in/tourist-intrests/forts/\n\n*Wikipedia* :- https://en.wikipedia.org/wiki/Lohagad\n\n*Lohtamia Empire* :-   https://en.m.wikipedia.org/wiki/Lohtamia#:~:text=Lohtamia%20is%20a%20sub%2Dclan,area%20in%20Bihar%20and%20U.P.\n\n",
+        "translated_text": "\n\nLohagad is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala and 52 km (32 mi) northwest of Pune, Lohagad rises to an elevation of 1,033 m (3,389 ft) above sea level. The fort is connected to the neighboring Visapur fort by a small range. The fort was under the Lohtamia empire for the majority of the time, with a short period of 5 years under the Mughal empire.\n\n*The initial construction of Lohagad Fort is attributed to the Lohtamia dynasty, who ruled the region during the 10th century CE, the fort was under them for the longest period*. \n\n*Lohagad has a long history with several dynasties occupying it at different periods of time: Lohtamia, Chalukyas, Rashtrakutas, Bahamanis, Nizams, Mughals and Marathas etc. Chatrapati Shivaji Maharaj captured it in 1648*.\n\n*Sources* :-\n\n*Maharashtra Tourism* :- https://maharashtratourism.gov.in/tourist-intrests/forts/\n\n*Wikipedia* :- https://en.wikipedia.org/wiki/Lohagad\n\n*Lohtamia Empire* :-   https://en.m.wikipedia.org/wiki/Lohtamia#:~:text=Lohtamia%20is%20a%20sub%2Dclan,area%20in%20Bihar%20and%20U.P.\n\n",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/AskIndia/comments/1o95v2v/why_all_marathis_are_obssed_with_shiavji_maharaj/",
+        "original_text": "so im new to pune recently shifted and i thought only the people with maratha caste were the one who loved the shivaji maharaj but its all of the marathis be it obc sc st everyone here loves maratha empire and shivaji maharaj i have not seen this kinda stuff anywhere in india its always a particular community obssed with kings but this is different.",
+        "translated_text": "so im new to pune recently shifted and i thought only the people with maratha caste were the one who loved the shivaji maharaj but its all of the marathis be it obc sc st everyone here loves maratha empire and shivaji maharaj i have not seen this kinda stuff anywhere in india its always a particular community obssed with kings but this is different.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/IndianHistory/comments/1iss5xz/maratha_empire_and_the_curse_of_short_lived_rulers/",
+        "original_text": "The Maratha Empire was magnificent and at its zenith ruled majority of the Indian subcontinent. Yet its expanse and success was hugely clipped by majority of its key rulers passing away early. Any one of them living as long as an Akbar or Aurangzeb would have entirely altered the history of the subcontinent. Here is a list of Maratha generals/rulers who passed away early and the cause of their death-\n\n- Chhatrapati Shivaji Maharaj - 1630-1680 (50 years) - Natural Causes\n- Chhatrapati Sambhaji Maharaj - 1657-1689 (31 years) - Executed by Aurang\n- Chhatrapati Rajaram Maharaj - 1670-1700 (30 years) - Natural Causes\n- Peshwa Bajirao I - 1700-1740 (40 years) - Natural Causes\n- Chimaji Appa (Bajirao's younger brother) - 1707-1740 (33 years) - Natural Causes\n- Dattajirao Shinde (Scindia) - 1723-1760 (37 years) - Martyred in battle with Afghans ('Bacchenge to aur ladhenge')\n- Peshwa Nanasaheb - 1720-1761 (40 years) - Natural Causes\n- Vishwasrao (Elder son of Nanasaheb Peshwa) - 1742-1761 (18 years) - Martyred at Panipat\n- Sadashivarao Bhau (son of Chimaji appa) - 1730-1761 (30 years) - Martyred at Panipat\n- Peshwa Madhavrao - 1745-1772 (27 years) - Natural Causes\n- Peshwa Narayanrao - 1755-1773 (18 years) - Assassinated at the orders of Raghunathrao\n- Peshwa Raghunathrao (younger son of Bajirao I) - 1734-1783 (49 years) - unknown causes\n- Peshwa Madhavrao II (posthomous son of Narayanrao) - 1774-1795 (21 years) - Suicide",
+        "translated_text": "The Maratha Empire was magnificent and at its zenith ruled majority of the Indian subcontinent. Yet its expanse and success was hugely clipped by majority of its key rulers passing away early. Any one of them living as long as an Akbar or Aurangzeb would have entirely altered the history of the subcontinent. Here is a list of Maratha generals/rulers who passed away early and the cause of their death-\n\n- Chhatrapati Shivaji Maharaj - 1630-1680 (50 years) - Natural Causes\n- Chhatrapati Sambhaji Maharaj - 1657-1689 (31 years) - Executed by Aurang\n- Chhatrapati Rajaram Maharaj - 1670-1700 (30 years) - Natural Causes\n- Peshwa Bajirao I - 1700-1740 (40 years) - Natural Causes\n- Chimaji Appa (Bajirao's younger brother) - 1707-1740 (33 years) - Natural Causes\n- Dattajirao Shinde (Scindia) - 1723-1760 (37 years) - Martyred in battle with Afghans ('Bacchenge to aur ladhenge')\n- Peshwa Nanasaheb - 1720-1761 (40 years) - Natural Causes\n- Vishwasrao (Elder son of Nanasaheb Peshwa) - 1742-1761 (18 years) - Martyred at Panipat\n- Sadashivarao Bhau (son of Chimaji appa) - 1730-1761 (30 years) - Martyred at Panipat\n- Peshwa Madhavrao - 1745-1772 (27 years) - Natural Causes\n- Peshwa Narayanrao - 1755-1773 (18 years) - Assassinated at the orders of Raghunathrao\n- Peshwa Raghunathrao (younger son of Bajirao I) - 1734-1783 (49 years) - unknown causes\n- Peshwa Madhavrao II (posthomous son of Narayanrao) - 1774-1795 (21 years) - Suicide",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://i.redd.it/asgr6gbiq7te1.jpeg",
+        "original_text": "This is the map of India before the beginning of the conquest of East India company. We could see how decentralised India was at this time period. How do you think the history would have moved forward from here if not for the British?\n\nDo you think we would still be living under a unified Indian nation or in multiple Indian nations like Europe?\n\nDo you think we would have been a republic, monarchy or a constitutional monarcy?\n\nHow do you think the history would have planned out?",
+        "translated_text": "This is the map of India before the beginning of the conquest of East India company. We could see how decentralised India was at this time period. How do you think the history would have moved forward from here if not for the British?\n\nDo you think we would still be living under a unified Indian nation or in multiple Indian nations like Europe?\n\nDo you think we would have been a republic, monarchy or a constitutional monarcy?\n\nHow do you think the history would have planned out?",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://i.redd.it/o39i2gekdk3g1.png",
+        "original_text": "Maratha Empire under Peshwa Balaji Baji Rao",
+        "translated_text": "Maratha Empire under Peshwa Balaji Baji Rao",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://v.redd.it/mmdu2tna59if1",
+        "original_text": "I'll be posting more couradly acts of Rajpura done in history",
+        "translated_text": "I'll be posting more couradly acts of Rajpura done in history",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/victoria3/comments/1oyik7q/is_it_possible_to_revive_the_marathasmughals_or/",
+        "original_text": "One thing I am curious about is how many events and flavours are there for the Indian subcontinent? India's under the rule of the British Raj but are there events showing how British rule is exerted on India and Indian Kings? Or Princes?\n\nI know in HOIV you can liberate India and have an alternative Indian Raj.\n\nBut the Marathas were the last big major Indian Empire before the Duke of Wellington came in and defeated in two wars, in that case they over-took most of India. It was the Sikhs that fought them and lost, but they too were absorbed into the Empire.\n\nWhat I want to know is, is it possible to revive the Marathas? Or the Mughals? Or the Sikhs? The Marathas were still one of the most thriving populations of Indians that were still fighting against British colonalism in one sense. ",
+        "translated_text": "One thing I am curious about is how many events and flavours are there for the Indian subcontinent? India's under the rule of the British Raj but are there events showing how British rule is exerted on India and Indian Kings? Or Princes?\n\nI know in HOIV you can liberate India and have an alternative Indian Raj.\n\nBut the Marathas were the last big major Indian Empire before the Duke of Wellington came in and defeated in two wars, in that case they over-took most of India. It was the Sikhs that fought them and lost, but they too were absorbed into the Empire.\n\nWhat I want to know is, is it possible to revive the Marathas? Or the Mughals? Or the Sikhs? The Marathas were still one of the most thriving populations of Indians that were still fighting against British colonalism in one sense. ",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/gallery/1mk0cbk",
+        "original_text": "I'd already been to Germany a few times before, and on those trips I visited some of the more popular destinations like Berlin, Munich, Hamburg, Dresden, Nuremberg, and Heidelberg.  This latest journey was targeted at the smaller spots I'd not yet been to.",
+        "translated_text": "I'd already been to Germany a few times before, and on those trips I visited some of the more popular destinations like Berlin, Munich, Hamburg, Dresden, Nuremberg, and Heidelberg.  This latest journey was targeted at the smaller spots I'd not yet been to.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://i.redd.it/zuotg9nll8fe1.png",
+        "original_text": "Inspired by another post, another obvious comparison. Both empires, the Mauryans and the Mughals, were huge. Both have a reliable claim towards being the largest empire in South Asia, and both significantly transformed the idea of what an Indian empire and emperor could and should be. ",
+        "translated_text": "Inspired by another post, another obvious comparison. Both empires, the Mauryans and the Mughals, were huge. Both have a reliable claim towards being the largest empire in South Asia, and both significantly transformed the idea of what an Indian empire and emperor could and should be. ",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    }
+]

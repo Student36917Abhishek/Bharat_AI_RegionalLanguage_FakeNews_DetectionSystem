@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  indic-project:
+    build: .
+    container_name: indic-project
+    volumes:
+      - .:/app  # Mount entire project directory
+      - ./outputs:/app/outputs  # Separate volume for outputs
+    working_dir: /app
+    environment:
+      - PYTHONPATH=/app
+    command: python main2.py
+    
+    # GPU support (optional)
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

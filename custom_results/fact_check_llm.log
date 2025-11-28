@@ -1,0 +1,223 @@
+2025-11-28 21:27:28,086 - INFO - Starting fact-checking classification script
+2025-11-28 21:27:28,088 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 21:27:28,089 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf
+2025-11-28 21:27:33,381 - INFO - Processing 3 claims with LLM
+2025-11-28 21:27:33,382 - INFO - Processing claim 1/3
+2025-11-28 21:27:33,803 - INFO - Sending prompt to LLM (approx. 7813 tokens)
+2025-11-28 21:30:25,299 - INFO - Starting fact-checking classification script
+2025-11-28 21:30:25,300 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 21:30:25,300 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf
+2025-11-28 21:30:26,207 - INFO - Processing 3 claims with LLM
+2025-11-28 21:30:26,208 - INFO - Processing claim 1/3
+2025-11-28 21:30:26,670 - INFO - Sending prompt to LLM (approx. 7385 tokens)
+2025-11-28 21:35:10,274 - INFO - Classified claim as 'unknown'
+2025-11-28 21:35:10,277 - INFO - Processing claim 2/3
+2025-11-28 21:35:10,278 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:35:10,278 - INFO - Processing claim 3/3
+2025-11-28 21:35:10,278 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:35:10,450 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 21:35:10,451 - INFO - Fact-checking classification script completed
+2025-11-28 21:38:00,962 - INFO - Starting fact-checking classification script
+2025-11-28 21:38:00,964 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 21:38:00,964 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 21:38:04,744 - INFO - Processing 3 claims with LLM
+2025-11-28 21:38:04,744 - INFO - Processing claim 1/3
+2025-11-28 21:38:05,245 - INFO - Sending prompt to LLM (approx. 7385 tokens)
+2025-11-28 21:42:34,506 - INFO - Classified claim as 'unknown'
+2025-11-28 21:42:34,507 - INFO - Processing claim 2/3
+2025-11-28 21:42:34,507 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:42:34,507 - INFO - Processing claim 3/3
+2025-11-28 21:42:34,507 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:42:34,720 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 21:42:34,721 - INFO - Fact-checking classification script completed
+2025-11-28 21:45:20,249 - INFO - Starting fact-checking classification script
+2025-11-28 21:45:20,251 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 21:45:20,251 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 21:45:21,429 - INFO - Processing 3 claims with LLM
+2025-11-28 21:45:21,429 - INFO - Processing claim 1/3
+2025-11-28 21:45:21,691 - INFO - Sending prompt to LLM (approx. 7385 tokens)
+2025-11-28 21:49:41,433 - INFO - Processed claim with LLM response
+2025-11-28 21:49:41,434 - INFO - Processing claim 2/3
+2025-11-28 21:49:41,434 - INFO - Processed claim with LLM response
+2025-11-28 21:49:41,434 - INFO - Processing claim 3/3
+2025-11-28 21:49:41,434 - INFO - Processed claim with LLM response
+2025-11-28 21:49:41,604 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 21:49:41,605 - INFO - Fact-checking classification script completed
+2025-11-28 21:54:34,297 - INFO - Starting fact-checking classification script
+2025-11-28 21:54:34,299 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 21:54:34,299 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 21:54:35,380 - INFO - Processing 3 claims with LLM
+2025-11-28 21:54:35,381 - INFO - Processing claim 1/3
+2025-11-28 21:54:35,618 - INFO - Sending prompt to LLM (approx. 1007 tokens)
+2025-11-28 21:54:57,888 - INFO - Classified claim as 'unknown'
+2025-11-28 21:54:57,889 - INFO - Processing claim 2/3
+2025-11-28 21:54:57,889 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:54:57,889 - INFO - Processing claim 3/3
+2025-11-28 21:54:57,889 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:54:58,034 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 21:54:58,034 - INFO - Fact-checking classification script completed
+2025-11-28 21:58:02,693 - INFO - Starting fact-checking classification script
+2025-11-28 21:58:02,694 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 21:58:02,694 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 21:58:03,793 - INFO - Processing 3 claims with LLM
+2025-11-28 21:58:03,793 - INFO - Processing claim 1/3
+2025-11-28 21:58:04,057 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 21:58:23,620 - INFO - Classified claim as 'unknown'
+2025-11-28 21:58:23,620 - INFO - Processing claim 2/3
+2025-11-28 21:58:23,620 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:58:23,620 - INFO - Processing claim 3/3
+2025-11-28 21:58:23,621 - INFO - Classified claim as 'unverifiable'
+2025-11-28 21:58:23,760 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 21:58:23,761 - INFO - Fact-checking classification script completed
+2025-11-28 22:00:08,845 - INFO - Starting fact-checking classification script
+2025-11-28 22:00:08,846 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:00:08,846 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:00:10,264 - INFO - Processing 3 claims with LLM
+2025-11-28 22:00:10,265 - INFO - Processing claim 1/3
+2025-11-28 22:00:10,561 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 22:01:11,651 - INFO - Classified claim as 'unknown'
+2025-11-28 22:01:11,654 - INFO - Processing claim 2/3
+2025-11-28 22:01:11,654 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:01:11,654 - INFO - Processing claim 3/3
+2025-11-28 22:01:11,654 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:01:11,810 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:01:11,811 - INFO - Fact-checking classification script completed
+2025-11-28 22:14:13,835 - INFO - Starting fact-checking classification script
+2025-11-28 22:14:13,837 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:14:13,839 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:14:14,890 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:14:14,890 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:14:14,890 - INFO - Processing claim 1/3
+2025-11-28 22:14:15,127 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 22:27:09,125 - INFO - Starting fact-checking classification script
+2025-11-28 22:27:09,126 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:27:09,126 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:27:11,498 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:27:11,498 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:27:11,498 - INFO - Processing claim 1/3
+2025-11-28 22:27:11,871 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 22:28:51,931 - INFO - Classified claim as 'unknown'
+2025-11-28 22:28:51,936 - INFO - Processing claim 2/3
+2025-11-28 22:28:51,936 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:28:51,936 - INFO - Processing claim 3/3
+2025-11-28 22:28:51,936 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:28:52,090 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:28:52,091 - INFO - Fact-checking classification script completed
+2025-11-28 22:31:52,589 - INFO - Starting fact-checking classification script
+2025-11-28 22:31:52,590 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:31:52,590 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf
+2025-11-28 22:31:55,650 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:31:55,651 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:31:55,651 - INFO - Processing claim 1/3
+2025-11-28 22:31:56,042 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 22:32:42,377 - INFO - Starting fact-checking classification script
+2025-11-28 22:32:42,378 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:32:42,379 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:32:45,766 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:32:45,766 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:32:45,767 - INFO - Processing claim 1/3
+2025-11-28 22:32:46,137 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 22:38:19,337 - INFO - Starting fact-checking classification script
+2025-11-28 22:38:19,338 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:38:19,338 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:38:20,600 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:38:20,601 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:38:20,601 - INFO - Processing claim 1/3
+2025-11-28 22:38:20,830 - INFO - Sending prompt to LLM (approx. 971 tokens)
+2025-11-28 22:40:01,351 - INFO - Starting fact-checking classification script
+2025-11-28 22:40:01,351 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:40:01,352 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:40:02,570 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:40:02,570 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:40:02,570 - INFO - Processing claim 1/3
+2025-11-28 22:40:02,798 - INFO - Sending prompt to LLM (approx. 841 tokens)
+2025-11-28 22:40:22,332 - INFO - Model response:  FALSE
+EXPLANATION: The claim is false because Charlie Kirk was assassinated in 2014, not last month.
+...
+2025-11-28 22:40:22,334 - INFO - Classified claim as 'false'
+2025-11-28 22:40:22,334 - INFO - Processing claim 2/3
+2025-11-28 22:40:22,334 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:40:22,334 - INFO - Processing claim 3/3
+2025-11-28 22:40:22,335 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:40:22,497 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:40:22,497 - INFO - Fact-checking classification script completed
+2025-11-28 22:47:10,661 - INFO - Starting fact-checking classification script
+2025-11-28 22:47:10,662 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:47:10,666 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:47:11,831 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:47:11,831 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:47:11,831 - INFO - Processing claim 1/3
+2025-11-28 22:47:12,061 - INFO - Sending prompt to LLM (approx. 841 tokens)
+2025-11-28 22:47:12,061 - ERROR - Error generating response from LLM: 'generator' object is not subscriptable
+2025-11-28 22:47:12,061 - INFO - Classified claim as 'error'
+2025-11-28 22:47:12,061 - INFO - Processing claim 2/3
+2025-11-28 22:47:12,061 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:47:12,061 - INFO - Processing claim 3/3
+2025-11-28 22:47:12,061 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:47:12,201 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:47:12,201 - INFO - Fact-checking classification script completed
+2025-11-28 22:50:11,734 - INFO - Starting fact-checking classification script
+2025-11-28 22:50:11,735 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:50:11,736 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:50:12,895 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:50:12,895 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:50:12,896 - INFO - Processing claim 1/3
+2025-11-28 22:50:13,131 - INFO - Sending prompt to LLM (approx. 841 tokens)
+2025-11-28 22:53:33,050 - INFO - Starting fact-checking classification script
+2025-11-28 22:53:33,051 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:53:33,053 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 22:53:34,157 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 22:53:34,157 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 22:53:34,157 - INFO - Token allocation: Prompt=400, Response=1000, Articles=6592
+2025-11-28 22:53:34,158 - INFO - Processing claim 1/3
+2025-11-28 22:53:34,394 - INFO - Article content tokens: 6590
+2025-11-28 22:53:34,394 - INFO - Total prompt tokens: 6703
+2025-11-28 22:53:34,405 - INFO - Sending prompt to LLM (approx. 6703 tokens)
+2025-11-28 22:57:38,583 - INFO - Model response length: 269 characters
+2025-11-28 22:57:38,584 - INFO - Model response: <think>
+Alright, I need to classify the claim about Andrew Schulz's podcast episode. The claim is that people happy with Charlie Kirk's assassination want due process for people smuggling fentanyl int...
+2025-11-28 22:57:38,584 - INFO - Classified claim as 'unknown'
+2025-11-28 22:57:38,586 - INFO - Processing claim 2/3
+2025-11-28 22:57:38,586 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:57:38,586 - INFO - Processing claim 3/3
+2025-11-28 22:57:38,587 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:57:38,783 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:57:38,784 - INFO - Fact-checking classification script completed
+2025-11-28 23:02:56,544 - INFO - Starting fact-checking classification script
+2025-11-28 23:02:56,545 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 23:02:56,545 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 23:02:57,799 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 23:02:57,799 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 23:02:57,799 - INFO - Token allocation: Prompt=400, Response=1000, Articles=6592
+2025-11-28 23:02:57,800 - INFO - Processing claim 1/3
+2025-11-28 23:02:58,081 - INFO - Article content tokens: 6590
+2025-11-28 23:02:58,081 - INFO - Total prompt tokens: 6703
+2025-11-28 23:02:58,093 - INFO - Sending prompt to LLM (approx. 6703 tokens)
+2025-11-28 23:06:58,743 - INFO - Model response length: 269 characters
+2025-11-28 23:06:58,746 - INFO - Model response: <think>
+Alright, I need to classify the claim about Andrew Schulz's podcast episode. The claim is that people happy with Charlie Kirk's assassination want due process for people smuggling fentanyl int...
+2025-11-28 23:06:58,747 - INFO - Classified claim as 'unknown'
+2025-11-28 23:06:58,747 - INFO - Processing claim 2/3
+2025-11-28 23:06:58,747 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:06:58,747 - INFO - Processing claim 3/3
+2025-11-28 23:06:58,747 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:06:58,933 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 23:06:58,933 - INFO - Fact-checking classification script completed
+2025-11-28 23:08:28,952 - INFO - Starting fact-checking classification script
+2025-11-28 23:08:28,953 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 23:08:28,953 - INFO - Loading model from /home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf
+2025-11-28 23:08:30,172 - INFO - Model loaded successfully with 8192 token context window
+2025-11-28 23:08:30,172 - INFO - Processing 3 claims with LLM using 8192 token context window
+2025-11-28 23:08:30,172 - INFO - Token allocation: Prompt=400, Response=1000, Articles=6592
+2025-11-28 23:08:30,172 - INFO - Processing claim 1/3
+2025-11-28 23:08:30,451 - INFO - Article content tokens: 6590
+2025-11-28 23:08:30,451 - INFO - Total prompt tokens: 6703
+2025-11-28 23:08:30,463 - INFO - Sending prompt to LLM (approx. 6703 tokens)
+2025-11-28 23:12:23,276 - INFO - Model response length: 269 characters
+2025-11-28 23:12:23,280 - INFO - Processed claim with label 'processed'
+2025-11-28 23:12:23,280 - INFO - Processing claim 2/3
+2025-11-28 23:12:23,280 - INFO - Processed claim with label 'unverifiable'
+2025-11-28 23:12:23,280 - INFO - Processing claim 3/3
+2025-11-28 23:12:23,280 - INFO - Processed claim with label 'unverifiable'
+2025-11-28 23:12:23,466 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 23:12:23,467 - INFO - Fact-checking classification script completed
