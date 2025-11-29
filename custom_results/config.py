@@ -2,7 +2,7 @@
 Configuration file for Reddit data processing pipeline
 """
 
-# Default input and output file paths
+# Default 
 DEFAULT_INPUT_FILE = "/home/abhi/Pictures/custom_results/reddit_search_output.json"
 DEFAULT_EXTRACTED_FILE = "extracted_reddit_data.json"
 DEFAULT_OUTPUT_FILE = "translated_reddit_data.json"
