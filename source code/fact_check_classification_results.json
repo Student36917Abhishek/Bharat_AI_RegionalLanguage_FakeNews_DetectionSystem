@@ -1,0 +1,111 @@
+{
+  "timestamp": "2025-11-29T03:22:45.122335",
+  "model_used": "/home/abhi/Pictures/DeepSeek-R1-Distill-Qwen-1.5B.Q4_K_M.gguf",
+  "max_tokens": 8192,
+  "max_response_tokens": 2000,
+  "classifications": [
+    {
+      "claim": "Charlie Kirk was assassinated last month.",
+      "original_claim": "Charlie Kirk was assassinated last month.",
+      "search_query": "Charlie Kirk assassinated",
+      "category": "politics/rumor",
+      "classification": "FALSE",
+      "reasoning": "<think>\nAlright, I need to figure out whether the claim that Erika Kirk is considering legal action against Candace Owens and her husband over Egyptian plane conspiracy theories is TRUE or FALSE based on the provided articles. Let me go through each article step by step.\n\nFirst, looking at Article 1: Times of India, it mentions that Charlie Kirk was assassinated in September 2025. It also states that Erika Kirk was pregnant when her husband was killed. This aligns with what I know about the characters from the TV show, so no issues here.\n\nNext, Article 3: Independent.ie discusses Erika Kirk and mentions she was “praying to God” she was pregnant when her husband was assassinated in September 2025. This directly supports the claim that she is considering legal action against Candace Owens and her husband because of this situation.\n\nIn Article 7, The Gateway Pundit also states that Erika Kirk’s former security team used hand signals before the assassination. This ties into the conspiracy theories about Egyptian planes tracking her movements, which are part of the larger conspiracy narrative surrounding Charlie Kirk.\n\nNow, looking at the main claim in Article 8: Candace Owens is considering a lawsuit against herself and her husband over claims that Egyptian planes tracked Erika Kirk. The article mentions that Owens has been involved with the assassination of Charlie Kirk, who was killed by an airplane in September 2025. It also states that there were reports about an Egyptian plane tracking her movements for several years.\n\nHowever, Article 7 specifically details that during the time of the assassination, Erika Kirk’s security team used hand signals before it was shot. This indicates deliberate surveillance rather than tracking by planes. The article doesn’t mention anything about Egyptian planes being tracked or linked to her case. Therefore, while Owens’ claims are part of a conspiracy theory surrounding Charlie Kirk and his assassination, there is no direct evidence linking the use of Egyptian planes to Erika Kirk’s situation.\n\nPutting it all together: The claim that Erika Kirk is considering legal action against Candace Owens and her husband because of Egyptian plane conspiracy theories isn’t directly supported by any of the provided articles. The relevant information points towards a conspiracy involving Charlie Kirk, not the specific claims about Egyptian planes.\n</think>\n\nThe claim that Erika Kirk is considering legal action against Candace Owens and her husband over Egyptian plane conspiracy theories is FALSE based on the provided articles.\n\n**Reasoning:**\n\n1. **Article 7:** This article details that during the time of the assassination (September 2025), Erika Kirk’s security team used hand signals before it was shot, indicating deliberate surveillance rather than tracking by planes.\n   \n2. **Other Articles:** While other articles mention Charlie Kirk's assassination and his former head of security' actions, they do not provide direct evidence linking Egyptian plane conspiracy theories to Erika Kirk.\n\n3. **Conclusion:** There is no evidence in the provided articles that support claims about Egyptian planes being tracked or linked to Erika Kirk’s case. The relevant information points towards a conspiracy involving Charlie Kirk and his assassination, not the specific claims about Egyptian planes.\n\n**Final Answer: FALSE**",
+      "full_response": "<think>\nAlright, I need to figure out whether the claim that Erika Kirk is considering legal action against Candace Owens and her husband over Egyptian plane conspiracy theories is TRUE or FALSE based on the provided articlcheck_classification_results.jsoes. Let me go through each article step by step.\n\nFirst, looking at Article 1: Times of India, it mentions that Charlie Kirk was assassinated in September 2025. It also states that Erika Kirk was pregnant when her husband was killed. This aligns with what I know about the characters from the TV show, so no issues here.\n\nNext, Article 3: Independent.ie discusses Erika Kirk and mentions she was “praying to God” she was pregnant when her husband was assassinated in September 2025. This directly supports the claim that she is considering legal action against Candace Owens and her husband because of this situation.\n\nIn Article 7, The Gateway Pundit also states that Erika Kirk’s former security team used hand signals before the assassination. This ties into the conspiracy theories about Egyptian planes tracking her movements, which are part of the larger conspiracy narrative surrounding Charlie Kirk.\n\nNow, looking at the main claim in Article 8: Candace Owens is considering a lawsuit against herself and her husband over claims that Egyptian planes tracked Erika Kirk. The article mentions that Owens has been involved with the assassination of Charlie Kirk, who was killed by an airplane in September 2025. It also states that there were reports about an Egyptian plane tracking her movements for several years.\n\nHowever, Article 7 specifically details that during the time of the assassination, Erika Kirk’s security team used hand signals before it was shot. This indicates deliberate surveillance rather than tracking by planes. The article doesn’t mention anything about Egyptian planes being tracked or linked to her case. Therefore, while Owens’ claims are part of a conspiracy theory surrounding Charlie Kirk and his assassination, there is no direct evidence linking the use of Egyptian planes to Erika Kirk’s situation.\n\nPutting it all together: The claim that Erika Kirk is considering legal action against Candace Owens and her husband because of Egyptian plane conspiracy theories isn’t directly supported by any of the provided articles. The relevant information points towards a conspiracy involving Charlie Kirk, not the specific claims about Egyptian planes.\n</think>\n\nThe claim that Erika Kirk is considering legal action against Candace Owens and her husband over Egyptian plane conspiracy theories is FALSE based on the provided articles.\n\n**Reasoning:**\n\n1. **Article 7:** This article details that during the time of the assassination (September 2025), Erika Kirk’s security team used hand signals before it was shot, indicating deliberate surveillance rather than tracking by planes.\n   \n2. **Other Articles:** While other articles mention Charlie Kirk's assassination and his former head of security' actions, they do not provide direct evidence linking Egyptian plane conspiracy theories to Erika Kirk.\n\n3. **Conclusion:** There is no evidence in the provided articles that support claims about Egyptian planes being tracked or linked to Erika Kirk’s case. The relevant information points towards a conspiracy involving Charlie Kirk and his assassination, not the specific claims about Egyptian planes.\n\n**Final Answer: FALSE**",
+      "articles_count": 10,
+      "articles_used": [
+        {
+          "title": "‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms"
+        },
+        {
+          "title": "Utah Gov. Spencer Cox on civility and the state of the country : NPR",
+          "source": "NPR",
+          "url": "https://www.npr.org/2025/11/25/nx-s1-5615342/spencer-cox-utah-trump-charlie-kirk-civility"
+        },
+        {
+          "title": "Erika Kirk says she was ‘praying to God’ she was pregnant when her husband was assassinated",
+          "source": "Independent.ie",
+          "url": "https://www.independent.ie/world-news/north-america/erika-kirk-says-she-was-praying-to-god-she-was-pregnant-when-her-husband-was-assassinated/a1610224511.html"
+        },
+        {
+          "title": "Erika Kirk Was 'Praying' She Was Pregnant with Charlie Kirk's Baby After He Was Killed",
+          "source": "People.com",
+          "url": "https://people.com/erika-kirk-praying-she-was-pregnant-charlie-kirk-baby-after-he-was-killed-11809048"
+        },
+        {
+          "title": "'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms"
+        }
+      ]
+    },
+    {
+      "claim": "Destiny admitted to keeping CSAM on his computer for legal purposes.",
+      "original_claim": "Destiny admitted to keeping CSAM on his computer for legal purposes.",
+      "search_query": "Destiny streamer admitted CSAM legal purposes",
+      "category": "legal/ethics/rumor",
+      "classification": "UNVERIFIABLE",
+      "reasoning": "Cannot verify without source articles.",
+      "full_response": "No articles available for verification.",
+      "articles_count": 0,
+      "articles_used": []
+    },
+    {
+      "claim": "Missile attacks are occurring in civilian areas of Satwari, Trikuta Nagar, Bari Bhramna, and Samba in Jammu.",
+      "original_claim": "Missile attacks are occurring in civilian areas of Satwari, Trikuta Nagar, Bari Bhramna, and Samba in Jammu.",
+      "search_query": "Jammu missile attacks civilian areas Satwari Trikuta Nagar Bari Bhramna Samba",
+      "category": "conflict/rumor/national security",
+      "classification": "UNVERIFIABLE",
+      "reasoning": "Cannot verify without source articles.",
+      "full_response": "No articles available for verification.",
+      "articles_count": 0,
+      "articles_used": []
+    },
+    {
+      "claim": "Pakistan initiated an attack on Jammu, and India is currently retaliating.",
+      "original_claim": "Pakistan initiated an attack on Jammu, and India is currently retaliating.",
+      "search_query": "India Pakistan conflict Jammu attack retaliation official statements",
+      "category": "conflict/politics/international relations/rumor",
+      "classification": "UNVERIFIABLE",
+      "reasoning": "Cannot verify without source articles.",
+      "full_response": "No articles available for verification.",
+      "articles_count": 0,
+      "articles_used": []
+    },
+    {
+      "claim": "An individual (referred to as 'he') is providing advice on how to avoid being stabbed that is considered false.",
+      "original_claim": "An individual (referred to as 'he') is providing advice on how to avoid being stabbed that is considered false.",
+      "search_query": "identify person giving false advice on avoiding stabbings",
+      "category": "personal safety/advice",
+      "classification": "UNVERIFIABLE",
+      "reasoning": "Cannot verify without source articles.",
+      "full_response": "No articles available for verification.",
+      "articles_count": 0,
+      "articles_used": []
+    },
+    {
+      "claim": "Piyush Goyal stated that no one is doing semiconductor work in India.",
+      "original_claim": "Piyush Goyal stated that no one is doing semiconductor work in India.",
+      "search_query": "Piyush Goyal 'no one doing semiconductors India' statement",
+      "category": "politics/business",
+      "classification": "UNVERIFIABLE",
+      "reasoning": "Cannot verify without source articles.",
+      "full_response": "No articles available for verification.",
+      "articles_count": 0,
+      "articles_used": []
+    },
+    {
+      "claim": "A defense official asserted that the defense sector is capable of solving its technological problems without private sector help and that they were compelled by the government to engage in Public-Private Partnership (PPP) meetings.",
+      "original_claim": "A defense official asserted that the defense sector is capable of solving its technological problems without private sector help and that they were compelled by the government to engage in Public-Private Partnership (PPP) meetings.",
+      "search_query": "Indian defense sector resistance private partnership PPP challenges",
+      "category": "government/defense/bureaucracy",
+      "classification": "UNVERIFIABLE",
+      "reasoning": "Cannot verify without source articles.",
+      "full_response": "No articles available for verification.",
+      "articles_count": 0,
+      "articles_used": []
+    }
+  ]
+}

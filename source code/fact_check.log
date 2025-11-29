@@ -1,0 +1,543 @@
+2025-11-28 20:39:53,544 - INFO - Starting fact-checking script
+2025-11-28 20:39:53,544 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-28 20:39:53,544 - INFO - Processing 5 claims
+2025-11-28 20:39:53,544 - INFO - Processing claim 1/5
+2025-11-28 20:39:53,544 - INFO - Fetching articles for: Charlie Kirk assassinated last month
+2025-11-28 20:39:53,545 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Charlie Kirk assassinated last month&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:39:54,457 - INFO - Response status code: 200
+2025-11-28 20:39:54,458 - WARNING - No articles found for query: Charlie Kirk assassinated last month
+2025-11-28 20:39:54,459 - WARNING - No articles found for query: Charlie Kirk assassinated last month
+2025-11-28 20:39:55,460 - INFO - Processing claim 2/5
+2025-11-28 20:39:55,460 - INFO - Fetching articles for: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:39:55,460 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Destiny streamer admitted CSAM legal purposes&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:39:56,524 - INFO - Response status code: 200
+2025-11-28 20:39:56,524 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:39:56,525 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:39:57,526 - INFO - Processing claim 3/5
+2025-11-28 20:39:57,526 - INFO - Fetching articles for: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 20:39:57,526 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Jammu missile attack Satwari Trikuta Nagar news&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:39:58,459 - INFO - Response status code: 200
+2025-11-28 20:39:58,459 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 20:39:58,461 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 20:39:59,461 - INFO - Processing claim 4/5
+2025-11-28 20:39:59,461 - INFO - Fetching articles for: Pakistan attack Jammu India retaliation news today
+2025-11-28 20:39:59,462 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Pakistan attack Jammu India retaliation news today&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:40:00,506 - INFO - Response status code: 200
+2025-11-28 20:40:00,506 - WARNING - No articles found for query: Pakistan attack Jammu India retaliation news today
+2025-11-28 20:40:00,507 - WARNING - No articles found for query: Pakistan attack Jammu India retaliation news today
+2025-11-28 20:40:01,508 - INFO - Processing claim 5/5
+2025-11-28 20:40:01,509 - INFO - Fetching articles for: who is known as the father of AI, semiconductor company clients AI pioneers
+2025-11-28 20:40:01,509 - INFO - Making API request to: https://gnews.io/api/v4/search?q=who is known as the father of AI semiconductor company clients AI pioneers&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:40:03,380 - INFO - Response status code: 200
+2025-11-28 20:40:03,381 - WARNING - No articles found for query: who is known as the father of AI semiconductor company clients AI pioneers
+2025-11-28 20:40:03,382 - WARNING - No articles found for query: who is known as the father of AI, semiconductor company clients AI pioneers
+2025-11-28 20:40:04,383 - INFO - Processed 5/5 claims, 0 successful
+2025-11-28 20:40:04,384 - INFO - Results saved to fact_check_results.json
+2025-11-28 20:40:04,385 - INFO - Fact-checking script completed
+2025-11-28 20:42:10,094 - INFO - Starting fact-checking script
+2025-11-28 20:42:10,095 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-28 20:42:10,095 - INFO - Processing 5 claims
+2025-11-28 20:42:10,095 - INFO - Processing claim 1/5
+2025-11-28 20:42:10,095 - INFO - Fetching articles for: Charlie Kirk assassinated last month
+2025-11-28 20:42:10,095 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Charlie Kirk assassinated last month&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:42:11,978 - INFO - Response status code: 200
+2025-11-28 20:42:11,979 - WARNING - No articles found for query: Charlie Kirk assassinated last month
+2025-11-28 20:42:11,979 - INFO - Trying alternative query: Charlie Kirk assassinated
+2025-11-28 20:42:13,262 - INFO - Found 10 articles for alternative query: Charlie Kirk assassinated
+2025-11-28 20:42:13,266 - INFO - Fetching full content for: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-28 20:42:13,267 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-28 20:42:14,835 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-28 20:42:14,837 - WARNING - Failed to fetch content for article: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-28 20:42:14,837 - INFO - Fetching full content for: Utah Gov. Spencer Cox on civility and the state of the country : NPR
+2025-11-28 20:42:14,837 - INFO - Fetching article content from: https://www.npr.org/2025/11/25/nx-s1-5615342/spencer-cox-utah-trump-charlie-kirk-civility
+2025-11-28 20:42:27,276 - INFO - Fetching full content for: Erika Kirk says she was ‘praying to God’ she was pregnant when her husband was assassinated
+2025-11-28 20:42:27,276 - INFO - Fetching article content from: https://www.independent.ie/world-news/north-america/erika-kirk-says-she-was-praying-to-god-she-was-pregnant-when-her-husband-was-assassinated/a1610224511.html
+2025-11-28 20:42:30,034 - INFO - Fetching full content for: Erika Kirk Was 'Praying' She Was Pregnant with Charlie Kirk's Baby After He Was Killed
+2025-11-28 20:42:30,034 - INFO - Fetching article content from: https://people.com/erika-kirk-praying-she-was-pregnant-charlie-kirk-baby-after-he-was-killed-11809048
+2025-11-28 20:42:31,753 - INFO - Fetching full content for: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-28 20:42:31,754 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-28 20:42:33,538 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-28 20:42:33,540 - WARNING - Failed to fetch content for article: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-28 20:42:33,540 - INFO - Fetching full content for: Erika Kirk reveals she prayed she was pregnant when her husband, Charlie, was assassinated
+2025-11-28 20:42:33,540 - INFO - Fetching article content from: https://nypost.com/2025/11/24/us-news/erika-kirk-reveals-she-prayed-she-was-pregnant-when-her-husband-charlie-was-assassinated/
+2025-11-28 20:42:35,854 - INFO - Fetching full content for: Charlie Kirk's Former Head of Security Speaks Out on the Rumored 'Hand Signals' His Team Allegedly Used Moments Before Conservative Activist was Assassinated (VIDEO)
+2025-11-28 20:42:35,854 - INFO - Fetching article content from: https://www.thegatewaypundit.com/2025/11/charlie-kirks-former-head-security-speaks-rumored-hand/
+2025-11-28 20:42:38,074 - INFO - Fetching full content for: Is Erika Kirk taking legal action against Candace Owens and her husband over Egyptian plane conspiracy theories? Here's what we know
+2025-11-28 20:42:38,074 - INFO - Fetching article content from: https://www.indiatimes.com/trending/is-erika-kirk-taking-legal-action-against-candace-owens-and-her-husband-over-egyptian-plane-conspiracy-theories-heres-what-we-know/articleshow/125400791.html
+2025-11-28 20:42:42,441 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-28 20:42:42,441 - INFO - Fetching article content from: https://www.breitbart.com/politics/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-28 20:42:44,473 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-28 20:42:44,473 - INFO - Fetching article content from: https://www.breitbart.com/entertainment/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-28 20:42:46,824 - INFO - Total tokens collected: 6999
+2025-11-28 20:42:47,824 - INFO - Processing claim 2/5
+2025-11-28 20:42:47,825 - INFO - Fetching articles for: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:42:47,825 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Destiny streamer admitted CSAM legal purposes&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:42:48,978 - INFO - Response status code: 200
+2025-11-28 20:42:48,978 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:42:48,978 - INFO - Trying alternative query: Destiny streamer admitted
+2025-11-28 20:42:52,433 - INFO - Trying alternative query: CSAM legal purposes
+2025-11-28 20:42:53,463 - INFO - Trying alternative query: Destiny purposes
+2025-11-28 20:42:54,487 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:42:55,487 - INFO - Processing claim 3/5
+2025-11-28 20:42:55,487 - INFO - Fetching articles for: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 20:42:55,488 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Jammu missile attack Satwari Trikuta Nagar news&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:42:56,682 - INFO - Response status code: 200
+2025-11-28 20:42:56,683 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 20:42:56,683 - INFO - Trying alternative query: Jammu missile attack
+2025-11-28 20:42:57,752 - INFO - Trying alternative query: Trikuta Nagar news
+2025-11-28 20:42:58,884 - INFO - Trying alternative query: Jammu news
+2025-11-28 20:43:00,169 - INFO - Found 10 articles for alternative query: Jammu news
+2025-11-28 20:43:00,172 - INFO - Fetching full content for: NC MP Mehdi slams own govt as party holds key meet
+2025-11-28 20:43:00,173 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/nc-mp-mehdi-slams-own-govt-as-party-holds-key-meet/articleshow/125622534.cms
+2025-11-28 20:43:01,342 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/nc-mp-mehdi-slams-own-govt-as-party-holds-key-meet/articleshow/125622534.cms
+2025-11-28 20:43:01,344 - WARNING - Failed to fetch content for article: NC MP Mehdi slams own govt as party holds key meet
+2025-11-28 20:43:01,344 - INFO - Fetching full content for: J&K Police raid JeI-linked locations across Kashmir Valley
+2025-11-28 20:43:01,344 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/jk-police-raid-jei-linked-locations-across-kashmir-valley/articleshow/125622468.cms
+2025-11-28 20:43:03,051 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/jk-police-raid-jei-linked-locations-across-kashmir-valley/articleshow/125622468.cms
+2025-11-28 20:43:03,053 - WARNING - Failed to fetch content for article: J&K Police raid JeI-linked locations across Kashmir Valley
+2025-11-28 20:43:03,053 - INFO - Fetching full content for: 19 year-old terror suspect held in Jammu
+2025-11-28 20:43:03,053 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/19year-old-terror-suspect-held-in-jammu/articleshow/125622223.cms
+2025-11-28 20:43:04,386 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/19year-old-terror-suspect-held-in-jammu/articleshow/125622223.cms
+2025-11-28 20:43:04,388 - WARNING - Failed to fetch content for article: 19 year-old terror suspect held in Jammu
+2025-11-28 20:43:04,388 - INFO - Fetching full content for: Evening news wrap: BJP accuses Congress's overseas accounts of stirring anarchy; Jammu teen held for terror plot & more
+2025-11-28 20:43:04,388 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/evening-news-wrap-bjp-accuses-congresss-overseas-accounts-of-stirring-anarchy-jammu-teen-held-for-terror-plot-more/articleshow/125614157.cms
+2025-11-28 20:43:05,733 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/evening-news-wrap-bjp-accuses-congresss-overseas-accounts-of-stirring-anarchy-jammu-teen-held-for-terror-plot-more/articleshow/125614157.cms
+2025-11-28 20:43:05,734 - WARNING - Failed to fetch content for article: Evening news wrap: BJP accuses Congress's overseas accounts of stirring anarchy; Jammu teen held for terror plot & more
+2025-11-28 20:43:05,735 - INFO - Fetching full content for: Radicalised Youth, Planning Terror Attack in Jammu And Kashmir, Arrested Days After Delhi Blast - What We Know
+2025-11-28 20:43:05,735 - INFO - Fetching article content from: https://www.timesnownews.com/india/radicalised-youth-planning-terror-attack-in-jammu-and-kashmir-arrested-days-after-delhi-blast-what-we-know-article-153213242
+2025-11-28 20:43:07,192 - INFO - Fetching full content for: Old Reasi Youth Over Online Radicalisation, Suspected Links to Pakistan Handlers
+2025-11-28 20:43:07,192 - INFO - Fetching article content from: https://www.lokmattimes.com/national/jammu-police-nab-19-year-old-reasi-youth-over-online-radicalisation-suspected-links-to-pakistan-handlers-a525/
+2025-11-28 20:43:08,973 - INFO - Fetching full content for: J&K police arrest teenager suspected of links with online radicalisation
+2025-11-28 20:43:08,973 - INFO - Fetching article content from: https://www.lokmattimes.com/national/jk-police-arrest-teenager-suspected-of-links-with-online-radicalisation/
+2025-11-28 20:43:10,363 - INFO - Fetching full content for: J&K Police conducts raids in Valley against people linked with banned JeI, those suspected of terror links
+2025-11-28 20:43:10,363 - INFO - Fetching article content from: https://www.lokmattimes.com/national/jk-police-conducts-raids-in-valley-against-people-linked-with-banned-jei-those-suspected-of-terror-links/
+2025-11-28 20:43:12,145 - INFO - Fetching full content for: Cold wave intensifies in J&K; Srinagar records coldest night at minus 4.4 degrees Celsius
+2025-11-28 20:43:12,146 - INFO - Fetching article content from: https://www.lokmattimes.com/national/cold-wave-intensifies-in-jk-srinagar-records-coldest-night-at-minus-44-degrees-celsius/
+2025-11-28 20:43:13,251 - INFO - Fetching full content for: From Poonch madrassa, Omar Abdullah says it’s unpatriotic to spread ‘propaganda against religious education institutions’
+2025-11-28 20:43:13,251 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/from-poonch-madrassa-omar-abdullah-says-its-unpatriotic-to-spread-propaganda-against-religious-education-institutions/articleshow/125596812.cms
+2025-11-28 20:43:15,115 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/from-poonch-madrassa-omar-abdullah-says-its-unpatriotic-to-spread-propaganda-against-religious-education-institutions/articleshow/125596812.cms
+2025-11-28 20:43:15,117 - WARNING - Failed to fetch content for article: From Poonch madrassa, Omar Abdullah says it’s unpatriotic to spread ‘propaganda against religious education institutions’
+2025-11-28 20:43:15,118 - INFO - Total tokens collected: 2521
+2025-11-28 20:43:16,118 - INFO - Processing claim 4/5
+2025-11-28 20:43:16,119 - INFO - Fetching articles for: Pakistan attack Jammu India retaliation news today
+2025-11-28 20:43:16,119 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Pakistan attack Jammu India retaliation news today&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:43:17,616 - INFO - Response status code: 200
+2025-11-28 20:43:17,616 - WARNING - No articles found for query: Pakistan attack Jammu India retaliation news today
+2025-11-28 20:43:17,616 - INFO - Trying alternative query: Pakistan attack Jammu
+2025-11-28 20:43:20,187 - INFO - Found 10 articles for alternative query: Pakistan attack Jammu
+2025-11-28 20:43:20,191 - INFO - Fetching full content for: old Jammu teen; cops suspect Pakistan link
+2025-11-28 20:43:20,191 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/planning-terror-attack-police-nab-19-year-old-jammu-teen-cops-suspect-pakistan-link/articleshow/125609149.cms
+2025-11-28 20:43:21,315 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/planning-terror-attack-police-nab-19-year-old-jammu-teen-cops-suspect-pakistan-link/articleshow/125609149.cms
+2025-11-28 20:43:21,317 - WARNING - Failed to fetch content for article: old Jammu teen; cops suspect Pakistan link
+2025-11-28 20:43:21,317 - INFO - Fetching full content for: How 19 CISF bravehearts thwarted Pakistan's attack on Uri hydro plant
+2025-11-28 20:43:21,317 - INFO - Fetching article content from: https://www.firstpost.com/explainers/cisf-thwarted-pakistan-attack-uri-hydro-plant-operation-sindoor-13954228.html
+2025-11-28 20:43:24,134 - INFO - Fetching full content for: Op Sindoor: How 19 Bravehearts Saved 250 Civilians During Pak's Uri Strike
+2025-11-28 20:43:24,135 - INFO - Fetching article content from: https://www.ndtv.com/india-news/operation-sindoor-cisf-op-sindoor-how-19-bravehearts-saved-250-civilians-during-paks-uri-strike-9702089
+2025-11-28 20:43:24,892 - ERROR - Error fetching article content from https://www.ndtv.com/india-news/operation-sindoor-cisf-op-sindoor-how-19-bravehearts-saved-250-civilians-during-paks-uri-strike-9702089: 403 Client Error: Forbidden for url: https://www.ndtv.com/india-news/operation-sindoor-cisf-op-sindoor-how-19-bravehearts-saved-250-civilians-during-paks-uri-strike-9702089
+2025-11-28 20:43:24,893 - WARNING - Failed to fetch content for article: Op Sindoor: How 19 Bravehearts Saved 250 Civilians During Pak's Uri Strike
+2025-11-28 20:43:24,894 - INFO - Fetching full content for: Governor Urges Tourists to Return to Kashmir Despite Terror Incidents
+2025-11-28 20:43:24,894 - INFO - Fetching article content from: https://www.devdiscourse.com/article/politics/3709615-governor-urges-tourists-to-return-to-kashmir-despite-terror-incidents
+2025-11-28 20:43:36,147 - ERROR - Error fetching article content from https://www.devdiscourse.com/article/politics/3709615-governor-urges-tourists-to-return-to-kashmir-despite-terror-incidents: HTTPSConnectionPool(host='www.devdiscourse.com', port=443): Read timed out. (read timeout=10)
+2025-11-28 20:43:36,148 - WARNING - Failed to fetch content for article: Governor Urges Tourists to Return to Kashmir Despite Terror Incidents
+2025-11-28 20:43:36,148 - INFO - Fetching full content for: LG Urges Armed Forces To Stay Vigilant Amid Attempts To Disrupt Peace In J&K
+2025-11-28 20:43:36,148 - INFO - Fetching article content from: https://www.dailyexcelsior.com/lg-urges-armed-forces-to-stay-vigilant-amid-attempts-to-disrupt-peace-in-jk/
+2025-11-28 20:43:41,373 - INFO - Fetching full content for: 'Operation Sindoor Brought Nothing But Loss Of Lives For India’: Former J&K CM Farooq Abdullah's Shocker - VIDEO
+2025-11-28 20:43:41,373 - INFO - Fetching article content from: https://www.freepressjournal.in/india/operation-sindoor-brought-nothing-but-loss-of-lives-for-india-former-jk-cm-farooq-abdullahs-shocker-video
+2025-11-28 20:43:47,491 - INFO - Fetching full content for: RBD, Shiv Sena, Mission Statehood hold protests, torch effigies of Pakistan against Delhi terror attack
+2025-11-28 20:43:47,491 - INFO - Fetching article content from: https://www.dailyexcelsior.com/rbd-shiv-sena-mission-statehood-hold-protests-torch-effigies-of-pakistan-against-delhi-terror-attack/
+2025-11-28 20:43:58,399 - INFO - Fetching full content for: NIA probes role of Shopian clerics in Red Fort blast
+2025-11-28 20:43:58,399 - INFO - Fetching article content from: https://economictimes.indiatimes.com/news/india/nia-probes-role-of-shopian-clerics-in-red-fort-blast/articleshow/125282686.cms
+2025-11-28 20:44:07,222 - INFO - Fetching full content for: Inside Pakistan's Secret Unit 'S1' That Trains Terrorists To Attack India
+2025-11-28 20:44:07,222 - INFO - Fetching article content from: https://www.ndtv.com/world-news/exclusive-inside-pakistans-secret-unit-s1-that-trains-terrorists-to-attack-india-9603703
+2025-11-28 20:44:10,151 - ERROR - Error fetching article content from https://www.ndtv.com/world-news/exclusive-inside-pakistans-secret-unit-s1-that-trains-terrorists-to-attack-india-9603703: 403 Client Error: Forbidden for url: https://www.ndtv.com/world-news/exclusive-inside-pakistans-secret-unit-s1-that-trains-terrorists-to-attack-india-9603703
+2025-11-28 20:44:10,152 - WARNING - Failed to fetch content for article: Inside Pakistan's Secret Unit 'S1' That Trains Terrorists To Attack India
+2025-11-28 20:44:10,153 - INFO - Fetching full content for: "Within 24 hours...": Trump again claims he stopped India
+2025-11-28 20:44:10,153 - INFO - Fetching article content from: https://www.tribuneindia.com/news/world/within-24-hours-trump-again-claims-he-stopped-india-pak-conflict-through-tariffs/
+2025-11-28 20:44:18,034 - WARNING - Could not extract meaningful content from https://www.tribuneindia.com/news/world/within-24-hours-trump-again-claims-he-stopped-india-pak-conflict-through-tariffs/
+2025-11-28 20:44:18,036 - WARNING - Failed to fetch content for article: "Within 24 hours...": Trump again claims he stopped India
+2025-11-28 20:44:18,036 - INFO - Total tokens collected: 3125
+2025-11-28 20:44:19,036 - INFO - Processing claim 5/5
+2025-11-28 20:44:19,036 - INFO - Fetching articles for: who is known as the father of AI, semiconductor company clients AI pioneers
+2025-11-28 20:44:19,037 - INFO - Making API request to: https://gnews.io/api/v4/search?q=who is known as the father of AI semiconductor company clients AI pioneers&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:53:25,958 - INFO - Starting fact-checking script
+2025-11-28 20:53:25,959 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-28 20:53:25,959 - INFO - Processing 5 claims with maximum 5 API calls
+2025-11-28 20:53:25,959 - INFO - Processing claim 1/5
+2025-11-28 20:53:25,959 - INFO - Fetching articles for: Charlie Kirk assassinated last month
+2025-11-28 20:53:25,960 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Charlie Kirk assassinated last month&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:53:27,053 - INFO - API call #1/5
+2025-11-28 20:53:27,053 - INFO - Response status code: 200
+2025-11-28 20:53:27,053 - WARNING - No articles found for query: Charlie Kirk assassinated last month
+2025-11-28 20:53:27,053 - INFO - Trying alternative query: Charlie Kirk assassinated
+2025-11-28 20:53:28,338 - INFO - API call #2/5
+2025-11-28 20:53:28,339 - INFO - Found 10 articles for alternative query: Charlie Kirk assassinated
+2025-11-28 20:53:28,343 - INFO - Fetching full content for: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-28 20:53:28,345 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-28 20:53:28,952 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-28 20:53:28,954 - WARNING - Failed to fetch content for article: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-28 20:53:28,955 - INFO - Fetching full content for: Utah Gov. Spencer Cox on civility and the state of the country : NPR
+2025-11-28 20:53:28,955 - INFO - Fetching article content from: https://www.npr.org/2025/11/25/nx-s1-5615342/spencer-cox-utah-trump-charlie-kirk-civility
+2025-11-28 20:53:30,935 - INFO - Fetching full content for: Erika Kirk says she was ‘praying to God’ she was pregnant when her husband was assassinated
+2025-11-28 20:53:30,935 - INFO - Fetching article content from: https://www.independent.ie/world-news/north-america/erika-kirk-says-she-was-praying-to-god-she-was-pregnant-when-her-husband-was-assassinated/a1610224511.html
+2025-11-28 20:53:32,500 - INFO - Fetching full content for: Erika Kirk Was 'Praying' She Was Pregnant with Charlie Kirk's Baby After He Was Killed
+2025-11-28 20:53:32,500 - INFO - Fetching article content from: https://people.com/erika-kirk-praying-she-was-pregnant-charlie-kirk-baby-after-he-was-killed-11809048
+2025-11-28 20:53:33,685 - INFO - Fetching full content for: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-28 20:53:33,685 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-28 20:53:34,332 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-28 20:53:34,335 - WARNING - Failed to fetch content for article: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-28 20:53:34,335 - INFO - Fetching full content for: Erika Kirk reveals she prayed she was pregnant when her husband, Charlie, was assassinated
+2025-11-28 20:53:34,335 - INFO - Fetching article content from: https://nypost.com/2025/11/24/us-news/erika-kirk-reveals-she-prayed-she-was-pregnant-when-her-husband-charlie-was-assassinated/
+2025-11-28 20:53:35,225 - INFO - Fetching full content for: Charlie Kirk's Former Head of Security Speaks Out on the Rumored 'Hand Signals' His Team Allegedly Used Moments Before Conservative Activist was Assassinated (VIDEO)
+2025-11-28 20:53:35,225 - INFO - Fetching article content from: https://www.thegatewaypundit.com/2025/11/charlie-kirks-former-head-security-speaks-rumored-hand/
+2025-11-28 20:53:36,842 - INFO - Fetching full content for: Is Erika Kirk taking legal action against Candace Owens and her husband over Egyptian plane conspiracy theories? Here's what we know
+2025-11-28 20:53:36,843 - INFO - Fetching article content from: https://www.indiatimes.com/trending/is-erika-kirk-taking-legal-action-against-candace-owens-and-her-husband-over-egyptian-plane-conspiracy-theories-heres-what-we-know/articleshow/125400791.html
+2025-11-28 20:53:38,399 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-28 20:53:38,400 - INFO - Fetching article content from: https://www.breitbart.com/politics/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-28 20:53:40,253 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-28 20:53:40,253 - INFO - Fetching article content from: https://www.breitbart.com/entertainment/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-28 20:53:40,742 - INFO - Total tokens collected: 7009
+2025-11-28 20:53:41,742 - INFO - Processing claim 2/5
+2025-11-28 20:53:41,742 - INFO - Fetching articles for: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:53:41,743 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Destiny streamer admitted CSAM legal purposes&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 20:53:42,891 - INFO - API call #3/5
+2025-11-28 20:53:42,891 - INFO - Response status code: 200
+2025-11-28 20:53:42,891 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:53:42,892 - INFO - Trying alternative query: Destiny streamer admitted
+2025-11-28 20:53:44,074 - INFO - API call #4/5
+2025-11-28 20:53:44,074 - INFO - Trying alternative query: CSAM legal purposes
+2025-11-28 20:53:45,149 - INFO - API call #5/5
+2025-11-28 20:53:45,153 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 20:53:46,154 - WARNING - Maximum number of API calls (5) reached. Stopping further processing.
+2025-11-28 20:53:46,155 - INFO - Processed 2/5 claims, 1 successful
+2025-11-28 20:53:46,157 - INFO - Results saved to fact_check_results.json
+2025-11-28 20:53:46,158 - INFO - Fact-checking script completed. Used 5/5 API calls.
+2025-11-28 21:12:01,005 - INFO - Starting fact-checking script
+2025-11-28 21:12:01,005 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-28 21:12:01,005 - INFO - Processing 5 claims with maximum 5 API calls
+2025-11-28 21:12:01,005 - INFO - Processing claim 1/5
+2025-11-28 21:12:01,005 - INFO - Fetching articles for: Charlie Kirk assassinated last month
+2025-11-28 21:12:01,006 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Charlie Kirk assassinated last month&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 21:12:02,315 - INFO - API call #1/5
+2025-11-28 21:12:02,315 - INFO - Response status code: 200
+2025-11-28 21:12:02,315 - WARNING - No articles found for query: Charlie Kirk assassinated last month
+2025-11-28 21:12:02,316 - INFO - Trying alternative query: Charlie Kirk assassinated
+2025-11-28 21:12:03,948 - INFO - API call #2/5
+2025-11-28 21:12:03,948 - INFO - Found 10 articles for alternative query: Charlie Kirk assassinated
+2025-11-28 21:12:03,952 - INFO - Fetching full content for: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-28 21:12:03,954 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-28 21:12:04,891 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-28 21:12:04,894 - WARNING - Failed to fetch content for article: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-28 21:12:04,894 - INFO - Fetching full content for: Utah Gov. Spencer Cox on civility and the state of the country : NPR
+2025-11-28 21:12:04,894 - INFO - Fetching article content from: https://www.npr.org/2025/11/25/nx-s1-5615342/spencer-cox-utah-trump-charlie-kirk-civility
+2025-11-28 21:12:06,760 - INFO - Fetching full content for: Erika Kirk says she was ‘praying to God’ she was pregnant when her husband was assassinated
+2025-11-28 21:12:06,760 - INFO - Fetching article content from: https://www.independent.ie/world-news/north-america/erika-kirk-says-she-was-praying-to-god-she-was-pregnant-when-her-husband-was-assassinated/a1610224511.html
+2025-11-28 21:12:08,670 - INFO - Fetching full content for: Erika Kirk Was 'Praying' She Was Pregnant with Charlie Kirk's Baby After He Was Killed
+2025-11-28 21:12:08,671 - INFO - Fetching article content from: https://people.com/erika-kirk-praying-she-was-pregnant-charlie-kirk-baby-after-he-was-killed-11809048
+2025-11-28 21:12:09,681 - INFO - Fetching full content for: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-28 21:12:09,681 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-28 21:12:10,348 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-28 21:12:10,350 - WARNING - Failed to fetch content for article: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-28 21:12:10,350 - INFO - Fetching full content for: Erika Kirk reveals she prayed she was pregnant when her husband, Charlie, was assassinated
+2025-11-28 21:12:10,350 - INFO - Fetching article content from: https://nypost.com/2025/11/24/us-news/erika-kirk-reveals-she-prayed-she-was-pregnant-when-her-husband-charlie-was-assassinated/
+2025-11-28 21:12:11,342 - INFO - Fetching full content for: Charlie Kirk's Former Head of Security Speaks Out on the Rumored 'Hand Signals' His Team Allegedly Used Moments Before Conservative Activist was Assassinated (VIDEO)
+2025-11-28 21:12:11,342 - INFO - Fetching article content from: https://www.thegatewaypundit.com/2025/11/charlie-kirks-former-head-security-speaks-rumored-hand/
+2025-11-28 21:12:14,312 - INFO - Fetching full content for: Is Erika Kirk taking legal action against Candace Owens and her husband over Egyptian plane conspiracy theories? Here's what we know
+2025-11-28 21:12:14,313 - INFO - Fetching article content from: https://www.indiatimes.com/trending/is-erika-kirk-taking-legal-action-against-candace-owens-and-her-husband-over-egyptian-plane-conspiracy-theories-heres-what-we-know/articleshow/125400791.html
+2025-11-28 21:12:15,567 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-28 21:12:15,567 - INFO - Fetching article content from: https://www.breitbart.com/politics/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-28 21:12:17,453 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-28 21:12:17,454 - INFO - Fetching article content from: https://www.breitbart.com/entertainment/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-28 21:12:19,071 - INFO - Total tokens collected: 7042
+2025-11-28 21:12:20,072 - INFO - Processing claim 2/5
+2025-11-28 21:12:20,072 - INFO - Fetching articles for: Destiny streamer admitted CSAM legal purposes
+2025-11-28 21:12:20,072 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Destiny streamer admitted CSAM legal purposes&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 21:12:21,139 - INFO - API call #3/5
+2025-11-28 21:12:21,139 - INFO - Response status code: 200
+2025-11-28 21:12:21,139 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 21:12:21,139 - INFO - Trying alternative query: Destiny streamer admitted
+2025-11-28 21:12:22,078 - INFO - API call #4/5
+2025-11-28 21:12:22,079 - WARNING - No articles found for alternative query: Destiny streamer admitted
+2025-11-28 21:12:22,082 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-28 21:12:23,083 - INFO - Processing claim 3/5
+2025-11-28 21:12:23,084 - INFO - Fetching articles for: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 21:12:23,084 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Jammu missile attack Satwari Trikuta Nagar news&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-28 21:12:24,531 - INFO - API call #5/5
+2025-11-28 21:12:24,531 - INFO - Response status code: 200
+2025-11-28 21:12:24,531 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 21:12:24,534 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-28 21:12:25,534 - WARNING - Maximum number of API calls (5) reached. Stopping further processing.
+2025-11-28 21:12:25,535 - INFO - Processed 3/5 claims, 1 successful
+2025-11-28 21:12:25,537 - INFO - Results saved to fact_check_results.json
+2025-11-28 21:12:25,538 - INFO - Fact-checking script completed. Used 5/5 API calls.
+2025-11-29 01:41:31,448 - INFO - Starting fact-checking script
+2025-11-29 01:41:31,448 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-29 01:41:31,448 - INFO - Processing 5 claims with maximum 10 API calls
+2025-11-29 01:41:31,449 - INFO - Processing claim 1/5
+2025-11-29 01:41:31,449 - INFO - Fetching articles for: Charlie Kirk assassinated last month
+2025-11-29 01:41:31,449 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Charlie Kirk assassinated last month&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-29 01:41:32,638 - INFO - API call #1/10
+2025-11-29 01:41:32,638 - INFO - Response status code: 200
+2025-11-29 01:41:32,638 - WARNING - No articles found for query: Charlie Kirk assassinated last month
+2025-11-29 01:41:32,639 - INFO - Trying alternative query: Charlie Kirk assassinated
+2025-11-29 01:41:33,959 - INFO - API call #2/10
+2025-11-29 01:41:33,960 - INFO - Found 10 articles for alternative query: Charlie Kirk assassinated
+2025-11-29 01:41:33,963 - INFO - Fetching full content for: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-29 01:41:33,964 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-29 01:41:34,749 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/do-i-have-to-stay-until-im-assassinated-like-charlie-kirk-marjorie-taylor-greene-lashes-out-at-maga-for-pushing-her-to-serve-full-term/articleshow/125592837.cms
+2025-11-29 01:41:34,751 - WARNING - Failed to fetch content for article: ‘Do I have to stay until I’m assassinated like Charlie Kirk?’: Marjorie Taylor Greene lashes out at MAGA for pushing her to serve full term
+2025-11-29 01:41:34,751 - INFO - Fetching full content for: Utah Gov. Spencer Cox on civility and the state of the country : NPR
+2025-11-29 01:41:34,751 - INFO - Fetching article content from: https://www.npr.org/2025/11/25/nx-s1-5615342/spencer-cox-utah-trump-charlie-kirk-civility
+2025-11-29 01:41:36,387 - INFO - Fetching full content for: Erika Kirk says she was ‘praying to God’ she was pregnant when her husband was assassinated
+2025-11-29 01:41:36,387 - INFO - Fetching article content from: https://www.independent.ie/world-news/north-america/erika-kirk-says-she-was-praying-to-god-she-was-pregnant-when-her-husband-was-assassinated/a1610224511.html
+2025-11-29 01:41:38,069 - INFO - Fetching full content for: Erika Kirk Was 'Praying' She Was Pregnant with Charlie Kirk's Baby After He Was Killed
+2025-11-29 01:41:38,070 - INFO - Fetching article content from: https://people.com/erika-kirk-praying-she-was-pregnant-charlie-kirk-baby-after-he-was-killed-11809048
+2025-11-29 01:41:39,514 - INFO - Fetching full content for: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-29 01:41:39,514 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-29 01:41:40,176 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/world/us/i-was-praying-to-god-that-erika-kirk-makes-big-revelation-about-the-day-her-husband-charlie-died/articleshow/125542767.cms
+2025-11-29 01:41:40,178 - WARNING - Failed to fetch content for article: 'I was praying to God that...’: Erika Kirk makes big revelation about the day her husband Charlie died
+2025-11-29 01:41:40,178 - INFO - Fetching full content for: Erika Kirk reveals she prayed she was pregnant when her husband, Charlie, was assassinated
+2025-11-29 01:41:40,178 - INFO - Fetching article content from: https://nypost.com/2025/11/24/us-news/erika-kirk-reveals-she-prayed-she-was-pregnant-when-her-husband-charlie-was-assassinated/
+2025-11-29 01:41:42,456 - INFO - Fetching full content for: Charlie Kirk's Former Head of Security Speaks Out on the Rumored 'Hand Signals' His Team Allegedly Used Moments Before Conservative Activist was Assassinated (VIDEO)
+2025-11-29 01:41:42,456 - INFO - Fetching article content from: https://www.thegatewaypundit.com/2025/11/charlie-kirks-former-head-security-speaks-rumored-hand/
+2025-11-29 01:41:44,312 - INFO - Fetching full content for: Is Erika Kirk taking legal action against Candace Owens and her husband over Egyptian plane conspiracy theories? Here's what we know
+2025-11-29 01:41:44,312 - INFO - Fetching article content from: https://www.indiatimes.com/trending/is-erika-kirk-taking-legal-action-against-candace-owens-and-her-husband-over-egyptian-plane-conspiracy-theories-heres-what-we-know/articleshow/125400791.html
+2025-11-29 01:41:45,917 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-29 01:41:45,917 - INFO - Fetching article content from: https://www.breitbart.com/politics/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-29 01:41:47,167 - INFO - Fetching full content for: Comedian Andrew Schulz: People Happy Charlie Kirk was Assassinated for His Opinions Want Due Process for People Smuggling Fentanyl into Our Country
+2025-11-29 01:41:47,167 - INFO - Fetching article content from: https://www.breitbart.com/entertainment/2025/11/16/comedian-andrew-schulz-people-happy-charlie-kirk-was-assassinated-for-his-opinions-want-due-process-for-people-smuggling-fentanyl-into-our-country/
+2025-11-29 01:41:48,170 - INFO - Total tokens collected: 7016
+2025-11-29 01:41:49,170 - INFO - Processing claim 2/5
+2025-11-29 01:41:49,171 - INFO - Fetching articles for: Destiny streamer admitted CSAM legal purposes
+2025-11-29 01:41:49,171 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Destiny streamer admitted CSAM legal purposes&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-29 01:41:50,035 - INFO - API call #3/10
+2025-11-29 01:41:50,036 - INFO - Response status code: 200
+2025-11-29 01:41:50,036 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-29 01:41:50,036 - INFO - Trying alternative query: Destiny streamer admitted
+2025-11-29 01:41:52,092 - INFO - API call #4/10
+2025-11-29 01:41:52,093 - WARNING - No articles found for alternative query: Destiny streamer admitted
+2025-11-29 01:41:52,096 - WARNING - No articles found for query: Destiny streamer admitted CSAM legal purposes
+2025-11-29 01:41:53,097 - INFO - Processing claim 3/5
+2025-11-29 01:41:53,097 - INFO - Fetching articles for: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-29 01:41:53,097 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Jammu missile attack Satwari Trikuta Nagar news&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-29 01:41:54,137 - INFO - API call #5/10
+2025-11-29 01:41:54,137 - INFO - Response status code: 200
+2025-11-29 01:41:54,137 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-29 01:41:54,137 - INFO - Trying alternative query: Jammu missile attack
+2025-11-29 01:41:55,167 - INFO - API call #6/10
+2025-11-29 01:41:55,168 - WARNING - No articles found for alternative query: Jammu missile attack
+2025-11-29 01:41:55,172 - WARNING - No articles found for query: Jammu missile attack Satwari Trikuta Nagar news
+2025-11-29 01:41:56,173 - INFO - Processing claim 4/5
+2025-11-29 01:41:56,173 - INFO - Fetching articles for: Pakistan attack Jammu India retaliation news today
+2025-11-29 01:41:56,173 - INFO - Making API request to: https://gnews.io/api/v4/search?q=Pakistan attack Jammu India retaliation news today&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-29 01:41:57,111 - INFO - API call #7/10
+2025-11-29 01:41:57,111 - INFO - Response status code: 200
+2025-11-29 01:41:57,112 - WARNING - No articles found for query: Pakistan attack Jammu India retaliation news today
+2025-11-29 01:41:57,112 - INFO - Trying alternative query: Pakistan attack Jammu
+2025-11-29 01:41:58,884 - INFO - API call #8/10
+2025-11-29 01:41:58,885 - INFO - Found 10 articles for alternative query: Pakistan attack Jammu
+2025-11-29 01:41:58,889 - INFO - Fetching full content for: old Jammu teen; cops suspect Pakistan link
+2025-11-29 01:41:58,890 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/india/planning-terror-attack-police-nab-19-year-old-jammu-teen-cops-suspect-pakistan-link/articleshow/125609149.cms
+2025-11-29 01:42:00,121 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/india/planning-terror-attack-police-nab-19-year-old-jammu-teen-cops-suspect-pakistan-link/articleshow/125609149.cms
+2025-11-29 01:42:00,123 - WARNING - Failed to fetch content for article: old Jammu teen; cops suspect Pakistan link
+2025-11-29 01:42:00,124 - INFO - Fetching full content for: How 19 CISF bravehearts thwarted Pakistan's attack on Uri hydro plant
+2025-11-29 01:42:00,124 - INFO - Fetching article content from: https://www.firstpost.com/explainers/cisf-thwarted-pakistan-attack-uri-hydro-plant-operation-sindoor-13954228.html
+2025-11-29 01:42:01,854 - INFO - Fetching full content for: Op Sindoor: How 19 Bravehearts Saved 250 Civilians During Pak's Uri Strike
+2025-11-29 01:42:01,855 - INFO - Fetching article content from: https://www.ndtv.com/india-news/operation-sindoor-cisf-op-sindoor-how-19-bravehearts-saved-250-civilians-during-paks-uri-strike-9702089
+2025-11-29 01:42:03,990 - ERROR - Error fetching article content from https://www.ndtv.com/india-news/operation-sindoor-cisf-op-sindoor-how-19-bravehearts-saved-250-civilians-during-paks-uri-strike-9702089: 403 Client Error: Forbidden for url: https://www.ndtv.com/india-news/operation-sindoor-cisf-op-sindoor-how-19-bravehearts-saved-250-civilians-during-paks-uri-strike-9702089
+2025-11-29 01:42:03,992 - WARNING - Failed to fetch content for article: Op Sindoor: How 19 Bravehearts Saved 250 Civilians During Pak's Uri Strike
+2025-11-29 01:42:03,993 - INFO - Fetching full content for: Governor Urges Tourists to Return to Kashmir Despite Terror Incidents
+2025-11-29 01:42:03,993 - INFO - Fetching article content from: https://www.devdiscourse.com/article/politics/3709615-governor-urges-tourists-to-return-to-kashmir-despite-terror-incidents
+2025-11-29 01:42:05,683 - INFO - Fetching full content for: LG Urges Armed Forces To Stay Vigilant Amid Attempts To Disrupt Peace In J&K
+2025-11-29 01:42:05,684 - INFO - Fetching article content from: https://www.dailyexcelsior.com/lg-urges-armed-forces-to-stay-vigilant-amid-attempts-to-disrupt-peace-in-jk/
+2025-11-29 01:42:09,295 - INFO - Fetching full content for: 'Operation Sindoor Brought Nothing But Loss Of Lives For India’: Former J&K CM Farooq Abdullah's Shocker - VIDEO
+2025-11-29 01:42:09,296 - INFO - Fetching article content from: https://www.freepressjournal.in/india/operation-sindoor-brought-nothing-but-loss-of-lives-for-india-former-jk-cm-farooq-abdullahs-shocker-video
+2025-11-29 01:42:13,178 - INFO - Fetching full content for: RBD, Shiv Sena, Mission Statehood hold protests, torch effigies of Pakistan against Delhi terror attack
+2025-11-29 01:42:13,178 - INFO - Fetching article content from: https://www.dailyexcelsior.com/rbd-shiv-sena-mission-statehood-hold-protests-torch-effigies-of-pakistan-against-delhi-terror-attack/
+2025-11-29 01:42:16,296 - INFO - Fetching full content for: NIA probes role of Shopian clerics in Red Fort blast
+2025-11-29 01:42:16,296 - INFO - Fetching article content from: https://economictimes.indiatimes.com/news/india/nia-probes-role-of-shopian-clerics-in-red-fort-blast/articleshow/125282686.cms
+2025-11-29 01:42:20,245 - INFO - Fetching full content for: Inside Pakistan's Secret Unit 'S1' That Trains Terrorists To Attack India
+2025-11-29 01:42:20,245 - INFO - Fetching article content from: https://www.ndtv.com/world-news/exclusive-inside-pakistans-secret-unit-s1-that-trains-terrorists-to-attack-india-9603703
+2025-11-29 01:42:22,506 - ERROR - Error fetching article content from https://www.ndtv.com/world-news/exclusive-inside-pakistans-secret-unit-s1-that-trains-terrorists-to-attack-india-9603703: 403 Client Error: Forbidden for url: https://www.ndtv.com/world-news/exclusive-inside-pakistans-secret-unit-s1-that-trains-terrorists-to-attack-india-9603703
+2025-11-29 01:42:22,508 - WARNING - Failed to fetch content for article: Inside Pakistan's Secret Unit 'S1' That Trains Terrorists To Attack India
+2025-11-29 01:42:22,509 - INFO - Fetching full content for: "Within 24 hours...": Trump again claims he stopped India
+2025-11-29 01:42:22,509 - INFO - Fetching article content from: https://www.tribuneindia.com/news/world/within-24-hours-trump-again-claims-he-stopped-india-pak-conflict-through-tariffs/
+2025-11-29 01:42:26,644 - WARNING - Could not extract meaningful content from https://www.tribuneindia.com/news/world/within-24-hours-trump-again-claims-he-stopped-india-pak-conflict-through-tariffs/
+2025-11-29 01:42:26,646 - WARNING - Failed to fetch content for article: "Within 24 hours...": Trump again claims he stopped India
+2025-11-29 01:42:26,646 - INFO - Total tokens collected: 3454
+2025-11-29 01:42:27,647 - INFO - Processing claim 5/5
+2025-11-29 01:42:27,647 - INFO - Fetching articles for: who is known as the father of AI, semiconductor company clients AI pioneers
+2025-11-29 01:42:27,648 - INFO - Making API request to: https://gnews.io/api/v4/search?q=who is known as the father of AI semiconductor company clients AI pioneers&token=27e168eef0cf8765a7b0c552eacd30e3&lang=en&max=10
+2025-11-29 01:42:29,685 - INFO - API call #9/10
+2025-11-29 01:42:29,685 - INFO - Response status code: 200
+2025-11-29 01:42:29,685 - WARNING - No articles found for query: who is known as the father of AI semiconductor company clients AI pioneers
+2025-11-29 01:42:29,685 - INFO - Trying alternative query: who is known
+2025-11-29 01:42:32,139 - INFO - API call #10/10
+2025-11-29 01:42:32,140 - INFO - Found 10 articles for alternative query: who is known
+2025-11-29 01:42:32,143 - INFO - Fetching full content for: What's motivating volunteers across the country, especially this Thanksgiving
+2025-11-29 01:42:32,144 - INFO - Fetching article content from: https://www.npr.org/2025/11/27/nx-s1-5622035/whats-motivating-volunteers-across-the-country-especially-this-thanksgiving
+2025-11-29 01:42:36,848 - INFO - Fetching full content for: Tom Read Wilson shocks I’m A Celebrity campmates with ‘real voice’
+2025-11-29 01:42:36,848 - INFO - Fetching article content from: https://www.independent.co.uk/tv/culture/im-a-celebrity-2025-tom-read-wilson-voice-video-b2873983.html
+2025-11-29 01:42:44,100 - INFO - Fetching full content for: Who is Jack White performing with Eminem at the Packers-Lions Thanksgiving halftime?
+2025-11-29 01:42:44,101 - INFO - Fetching article content from: https://timesofindia.indiatimes.com/sports/nfl/news/who-is-jack-white-performing-with-eminem-at-the-packers-lions-thanksgiving-halftime/articleshow/125624014.cms
+2025-11-29 01:42:48,238 - WARNING - Could not extract meaningful content from https://timesofindia.indiatimes.com/sports/nfl/news/who-is-jack-white-performing-with-eminem-at-the-packers-lions-thanksgiving-halftime/articleshow/125624014.cms
+2025-11-29 01:42:48,242 - WARNING - Failed to fetch content for article: Who is Jack White performing with Eminem at the Packers-Lions Thanksgiving halftime?
+2025-11-29 01:42:48,242 - INFO - Fetching full content for: Political exchange in Greek Parliament regarding family relations claims
+2025-11-29 01:42:48,242 - INFO - Fetching article content from: https://en.protothema.gr/2025/11/27/political-exchange-in-greek-parliament-regarding-family-relations-claims/
+2025-11-29 01:42:51,387 - INFO - Fetching full content for: Charleston podcast host sits down with Lowcountry celebrities for the holiday
+2025-11-29 01:42:51,388 - INFO - Fetching article content from: https://www.live5news.com/2025/11/27/sc-podcast-host-sits-down-with-lowcountry-celebrities-holiday/
+2025-11-29 01:42:53,568 - INFO - Fetching full content for: The Rest is Science's Hannah Fry and VSauce play 'Who Said That?' with indy100
+2025-11-29 01:42:53,569 - INFO - Fetching article content from: https://www.indy100.com/science-tech/hannah-fry-michael-stevens-vsauce-rest-is-science-podcast
+2025-11-29 01:42:56,204 - INFO - Fetching full content for: Woman on the run arrested in connection with 2021 murder case
+2025-11-29 01:42:56,205 - INFO - Fetching article content from: https://www.thestatesman.com/cities/woman-on-the-run-arrested-in-connection-with-2021-murder-case-1503518515.html
+2025-11-29 01:42:57,529 - INFO - Fetching full content for: Who is Larry Page? Google co-founder and 2nd richest person in the world
+2025-11-29 01:42:57,529 - INFO - Fetching article content from: https://www.thesun.co.uk/news/21838669/https-www-thesun-co-uk-news-21838669-who-is-larry-page-net-worth/
+2025-11-29 01:42:58,249 - WARNING - Could not extract meaningful content from https://www.thesun.co.uk/news/21838669/https-www-thesun-co-uk-news-21838669-who-is-larry-page-net-worth/
+2025-11-29 01:42:58,251 - WARNING - Failed to fetch content for article: Who is Larry Page? Google co-founder and 2nd richest person in the world
+2025-11-29 01:42:58,251 - INFO - Fetching full content for: Former CSK cricketer Anirudha Srikkanth’s 2nd wife: Who is Samyuktha Shanmughanathan, known for Bigg Boss Tamil?
+2025-11-29 01:42:58,252 - INFO - Fetching article content from: https://www.livemint.com/news/trends/former-csk-cricketer-anirudha-srikkanth-s-2nd-wife-who-is-samyuktha-shanmughanathan-known-for-bigg-boss-tamil-11764248300412.html
+2025-11-29 01:42:59,180 - INFO - Fetching full content for: Who Was Anirudha Srikkanth’s First Wife? Actress And Model Once Married To The Chennai-Born Former CSK Batter
+2025-11-29 01:42:59,180 - INFO - Fetching article content from: https://www.newsx.com/entertainment/who-was-anirudha-srikkanths-first-wife-actress-and-model-once-married-to-the-chennai-born-former-csk-batter-116392/
+2025-11-29 01:43:01,750 - INFO - Total tokens collected: 5770
+2025-11-29 01:43:02,750 - INFO - Processed 5/5 claims, 3 successful
+2025-11-29 01:43:02,754 - INFO - Results saved to fact_check_results.json
+2025-11-29 01:43:02,757 - INFO - Fact-checking script completed. Used 10/10 API calls.
+2025-11-29 02:02:59,002 - INFO - Attempting to initialize PRAW with username: Training_Student1147, client_id: eXzS0WLU_9tV1gq9p9H0Pg, and user_agent: python:project1:v1.3.0 (by /u/Training_Student1147)
+2025-11-29 02:03:01,763 - INFO - Reddit instance created and successfully authenticated as /u/Training_Student1147.
+2025-11-29 02:03:01,764 - INFO - Searching Reddit globally for query: 'Maratha Empire' with a goal of 15 posts with selftext, sorting by relevance.
+2025-11-29 02:03:04,941 - INFO - Skipping post tg32rj (URL: https://i.redd.it/p8bf49oxsvn81.jpg): No selftext or empty selftext.
+2025-11-29 02:03:05,941 - INFO - Processing post: Among the images of peak Maratha Empire maps that ... (ID: 1hob4jn)
+2025-11-29 02:03:05,942 - INFO - Added post 1/15
+2025-11-29 02:03:06,942 - INFO - Skipping post em81fl (URL: https://i.redd.it/sza96cypgq941.jpg): No selftext or empty selftext.
+2025-11-29 02:03:07,943 - INFO - Processing post: Maratha Empire at it's peak in January 1760 AD/CE.... (ID: 1e4mxmd)
+2025-11-29 02:03:07,943 - INFO - Added post 2/15
+2025-11-29 02:03:08,943 - INFO - Processing post: Do you think the Maratha Empire is being overglori... (ID: td9kod)
+2025-11-29 02:03:08,943 - INFO - Added post 3/15
+2025-11-29 02:03:09,944 - INFO - Skipping post 1m9o2qo (URL: https://i.redd.it/cyk4ux7sg6ff1.jpeg): No selftext or empty selftext.
+2025-11-29 02:03:10,944 - INFO - Skipping post 1b3h1js (URL: https://twitter.com/BJP4India/status/593728757547962369; https://www.census2011.co.in/states.php): No selftext or empty selftext.
+2025-11-29 02:03:11,945 - INFO - Skipping post 1ikj4pm (URL: https://v.redd.it/3e2u5a8gqvhe1): No selftext or empty selftext.
+2025-11-29 02:03:12,945 - INFO - Processing post: This Is What Shivaji Maharaj’s Maratha Empire Look... (ID: 1m9o19o)
+2025-11-29 02:03:12,946 - INFO - Added post 4/15
+2025-11-29 02:03:13,946 - INFO - Skipping post ymxeg8 (URL: https://i.redd.it/ynxd9o3kj5y91.png): No selftext or empty selftext.
+2025-11-29 02:03:14,947 - INFO - Skipping post 1obd9ob (URL: https://i.redd.it/zbhny8wtu7wf1.jpeg): No selftext or empty selftext.
+2025-11-29 02:03:15,947 - INFO - Processing post: Did people residing in Mughal Empire saw Maratha I... (ID: 1ic7uci)
+2025-11-29 02:03:15,947 - INFO - Added post 5/15
+2025-11-29 02:03:16,948 - INFO - Processing post: Assassin's Creed: The Maratha Empire... (ID: 1n8cqdt)
+2025-11-29 02:03:16,948 - INFO - Added post 6/15
+2025-11-29 02:03:17,949 - INFO - Processing post: Lohagad Fort ( The Iron Fort ) Maharashtra - Initi... (ID: 1i0ct0y)
+2025-11-29 02:03:17,949 - INFO - Added post 7/15
+2025-11-29 02:03:18,949 - INFO - Processing post: why all marathis are obssed with shiavji maharaj a... (ID: 1o95v2v)
+2025-11-29 02:03:18,950 - INFO - Added post 8/15
+2025-11-29 02:03:19,950 - INFO - Skipping post 1nfpd6u (URL: https://v.redd.it/brdutaobbvof1): No selftext or empty selftext.
+2025-11-29 02:03:20,950 - INFO - Processing post: Maratha Empire and the curse of short lived rulers... (ID: 1iss5xz)
+2025-11-29 02:03:20,951 - INFO - Added post 9/15
+2025-11-29 02:03:21,951 - INFO - Skipping post 1ivh2vp (URL: https://i.redd.it/a7w19njpioke1.jpeg): No selftext or empty selftext.
+2025-11-29 02:03:22,952 - INFO - Skipping post 1m9o2ex (URL: https://i.redd.it/cyk4ux7sg6ff1.jpeg): No selftext or empty selftext.
+2025-11-29 02:03:23,952 - INFO - Skipping post xglzy9 (URL: https://i.redd.it/5ugkyaxd3fo91.jpg): No selftext or empty selftext.
+2025-11-29 02:03:24,953 - INFO - Processing post: What could have been the alternate history of Indi... (ID: 1jstmbr)
+2025-11-29 02:03:24,953 - INFO - Added post 10/15
+2025-11-29 02:03:25,953 - INFO - Processing post: Maratha Empire 1759 CE... (ID: 1p72rv6)
+2025-11-29 02:03:25,954 - INFO - Added post 11/15
+2025-11-29 02:03:26,954 - INFO - Skipping post oayfgx (URL: https://i.redd.it/vrqz5jxdxe871.jpg): No selftext or empty selftext.
+2025-11-29 02:03:27,955 - INFO - Skipping post 1n8xbxm (URL: https://v.redd.it/g835jn06y5nf1): No selftext or empty selftext.
+2025-11-29 02:03:28,955 - INFO - Processing post: Reply to mughalputs who can't digest ruling of mar... (ID: 1mmt90q)
+2025-11-29 02:03:28,956 - INFO - Added post 12/15
+2025-11-29 02:03:29,956 - INFO - Processing post: Is it possible to revive the Marathas/Mughals or S... (ID: 1oyik7q)
+2025-11-29 02:03:29,956 - INFO - Added post 13/15
+2025-11-29 02:03:30,957 - INFO - Skipping post 1lrdvms (URL: https://i.redd.it/c2ar77sdltaf1.png): No selftext or empty selftext.
+2025-11-29 02:03:31,957 - INFO - Skipping post 1e3a5af (URL: https://i.redd.it/y5g8tsd88jcd1.png): No selftext or empty selftext.
+2025-11-29 02:03:32,958 - INFO - Skipping post kyct66 (URL: https://i.redd.it/h8ledv5rqmb61.jpg): No selftext or empty selftext.
+2025-11-29 02:03:33,958 - INFO - Skipping post 1m7kunu (URL: https://www.reddit.com/gallery/1m7kunu): No selftext or empty selftext.
+2025-11-29 02:03:34,959 - INFO - Skipping post qqs2z2 (URL: https://i.redd.it/tnzv0no74ry71.jpg): No selftext or empty selftext.
+2025-11-29 02:03:35,959 - INFO - Skipping post 1lrpes5 (URL: https://i.redd.it/z5fz5ygfewaf1.png): No selftext or empty selftext.
+2025-11-29 02:03:36,960 - INFO - Processing post: Two weeks in (mostly) Germany by train... (ID: 1mk0cbk)
+2025-11-29 02:03:36,960 - INFO - Added post 14/15
+2025-11-29 02:03:37,961 - INFO - Processing post: Double Standards exist all over the world...... (ID: 1ia2081)
+2025-11-29 02:03:37,961 - INFO - Added post 15/15
+2025-11-29 02:03:37,961 - INFO - Successfully fetched 15 posts with selftext for query 'Maratha Empire'.
+2025-11-29 02:03:41,088 - WARNING - The model weights are not tied. Please use the `tie_weights` method before using the `infer_auto_device` function.
+2025-11-29 02:04:16,808 - INFO - Starting fact-checking script
+2025-11-29 02:04:16,809 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-29 02:07:06,220 - INFO - Attempting to initialize PRAW with username: Training_Student1147, client_id: eXzS0WLU_9tV1gq9p9H0Pg, and user_agent: python:project1:v1.3.0 (by /u/Training_Student1147)
+2025-11-29 02:07:13,639 - INFO - Reddit instance created and successfully authenticated as /u/Training_Student1147.
+2025-11-29 02:07:13,639 - INFO - Searching Reddit globally for query: 'Maratha Empire' with a goal of 15 posts with selftext, sorting by relevance.
+2025-11-29 02:07:18,645 - INFO - Skipping post tg32rj (URL: https://i.redd.it/p8bf49oxsvn81.jpg): No selftext or empty selftext.
+2025-11-29 02:07:19,646 - INFO - Processing post: Among the images of peak Maratha Empire maps that ... (ID: 1hob4jn)
+2025-11-29 02:07:19,646 - INFO - Added post 1/15
+2025-11-29 02:07:20,647 - INFO - Skipping post em81fl (URL: https://i.redd.it/sza96cypgq941.jpg): No selftext or empty selftext.
+2025-11-29 02:07:21,647 - INFO - Processing post: Maratha Empire at it's peak in January 1760 AD/CE.... (ID: 1e4mxmd)
+2025-11-29 02:07:21,647 - INFO - Added post 2/15
+2025-11-29 02:07:22,648 - INFO - Processing post: Do you think the Maratha Empire is being overglori... (ID: td9kod)
+2025-11-29 02:07:22,648 - INFO - Added post 3/15
+2025-11-29 02:07:23,648 - INFO - Skipping post 1m9o2qo (URL: https://i.redd.it/cyk4ux7sg6ff1.jpeg): No selftext or empty selftext.
+2025-11-29 02:07:24,649 - INFO - Skipping post 1b3h1js (URL: https://twitter.com/BJP4India/status/593728757547962369; https://www.census2011.co.in/states.php): No selftext or empty selftext.
+2025-11-29 02:07:25,650 - INFO - Skipping post 1ikj4pm (URL: https://v.redd.it/3e2u5a8gqvhe1): No selftext or empty selftext.
+2025-11-29 02:07:26,650 - INFO - Processing post: This Is What Shivaji Maharaj’s Maratha Empire Look... (ID: 1m9o19o)
+2025-11-29 02:07:26,650 - INFO - Added post 4/15
+2025-11-29 02:07:27,651 - INFO - Skipping post ymxeg8 (URL: https://i.redd.it/ynxd9o3kj5y91.png): No selftext or empty selftext.
+2025-11-29 02:07:28,651 - INFO - Skipping post 1obd9ob (URL: https://i.redd.it/zbhny8wtu7wf1.jpeg): No selftext or empty selftext.
+2025-11-29 02:07:29,652 - INFO - Processing post: Did people residing in Mughal Empire saw Maratha I... (ID: 1ic7uci)
+2025-11-29 02:07:29,652 - INFO - Added post 5/15
+2025-11-29 02:07:30,652 - INFO - Processing post: Assassin's Creed: The Maratha Empire... (ID: 1n8cqdt)
+2025-11-29 02:07:30,653 - INFO - Added post 6/15
+2025-11-29 02:07:31,653 - INFO - Processing post: Lohagad Fort ( The Iron Fort ) Maharashtra - Initi... (ID: 1i0ct0y)
+2025-11-29 02:07:31,654 - INFO - Added post 7/15
+2025-11-29 02:07:32,654 - INFO - Processing post: why all marathis are obssed with shiavji maharaj a... (ID: 1o95v2v)
+2025-11-29 02:07:32,654 - INFO - Added post 8/15
+2025-11-29 02:07:33,655 - INFO - Skipping post 1nfpd6u (URL: https://v.redd.it/brdutaobbvof1): No selftext or empty selftext.
+2025-11-29 02:07:34,655 - INFO - Processing post: Maratha Empire and the curse of short lived rulers... (ID: 1iss5xz)
+2025-11-29 02:07:34,656 - INFO - Added post 9/15
+2025-11-29 02:07:35,656 - INFO - Skipping post 1ivh2vp (URL: https://i.redd.it/a7w19njpioke1.jpeg): No selftext or empty selftext.
+2025-11-29 02:07:36,656 - INFO - Skipping post 1m9o2ex (URL: https://i.redd.it/cyk4ux7sg6ff1.jpeg): No selftext or empty selftext.
+2025-11-29 02:07:37,657 - INFO - Skipping post xglzy9 (URL: https://i.redd.it/5ugkyaxd3fo91.jpg): No selftext or empty selftext.
+2025-11-29 02:07:38,657 - INFO - Processing post: What could have been the alternate history of Indi... (ID: 1jstmbr)
+2025-11-29 02:07:38,658 - INFO - Added post 10/15
+2025-11-29 02:07:39,658 - INFO - Processing post: Maratha Empire 1759 CE... (ID: 1p72rv6)
+2025-11-29 02:07:39,658 - INFO - Added post 11/15
+2025-11-29 02:07:40,659 - INFO - Skipping post oayfgx (URL: https://i.redd.it/vrqz5jxdxe871.jpg): No selftext or empty selftext.
+2025-11-29 02:07:41,659 - INFO - Skipping post 1n8xbxm (URL: https://v.redd.it/g835jn06y5nf1): No selftext or empty selftext.
+2025-11-29 02:07:42,660 - INFO - Processing post: Reply to mughalputs who can't digest ruling of mar... (ID: 1mmt90q)
+2025-11-29 02:07:42,660 - INFO - Added post 12/15
+2025-11-29 02:07:43,660 - INFO - Processing post: Is it possible to revive the Marathas/Mughals or S... (ID: 1oyik7q)
+2025-11-29 02:07:43,661 - INFO - Added post 13/15
+2025-11-29 02:07:44,661 - INFO - Skipping post 1lrdvms (URL: https://i.redd.it/c2ar77sdltaf1.png): No selftext or empty selftext.
+2025-11-29 02:07:45,661 - INFO - Skipping post 1e3a5af (URL: https://i.redd.it/y5g8tsd88jcd1.png): No selftext or empty selftext.
+2025-11-29 02:07:46,662 - INFO - Skipping post kyct66 (URL: https://i.redd.it/h8ledv5rqmb61.jpg): No selftext or empty selftext.
+2025-11-29 02:07:47,662 - INFO - Skipping post 1m7kunu (URL: https://www.reddit.com/gallery/1m7kunu): No selftext or empty selftext.
+2025-11-29 02:07:48,663 - INFO - Skipping post qqs2z2 (URL: https://i.redd.it/tnzv0no74ry71.jpg): No selftext or empty selftext.
+2025-11-29 02:07:49,663 - INFO - Skipping post 1lrpes5 (URL: https://i.redd.it/z5fz5ygfewaf1.png): No selftext or empty selftext.
+2025-11-29 02:07:50,664 - INFO - Processing post: Two weeks in (mostly) Germany by train... (ID: 1mk0cbk)
+2025-11-29 02:07:50,664 - INFO - Added post 14/15
+2025-11-29 02:07:51,665 - INFO - Processing post: Double Standards exist all over the world...... (ID: 1ia2081)
+2025-11-29 02:07:51,665 - INFO - Added post 15/15
+2025-11-29 02:07:51,665 - INFO - Successfully fetched 15 posts with selftext for query 'Maratha Empire'.
+2025-11-29 02:07:55,085 - WARNING - The model weights are not tied. Please use the `tie_weights` method before using the `infer_auto_device` function.
+2025-11-29 02:37:18,456 - INFO - Starting fact-checking script
+2025-11-29 02:37:18,457 - INFO - Results file already exists at /home/abhi/Pictures/custom_results/fact_check_results.json. Skipping processing.
+2025-11-29 02:37:36,599 - INFO - Starting fact-checking script
+2025-11-29 02:37:36,600 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-29 02:37:36,600 - INFO - Processing 2 claims with maximum 10 API calls
+2025-11-29 02:37:36,600 - INFO - Processing claim 1/2
+2025-11-29 02:37:36,600 - INFO - Processing claim 2/2
+2025-11-29 02:37:36,600 - INFO - Processed 2/2 claims, 0 successful
+2025-11-29 02:37:36,600 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-29 02:37:36,600 - INFO - Fact-checking script completed. Results saved to /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-29 02:40:29,007 - INFO - Starting fact-checking script
+2025-11-29 02:40:29,007 - INFO - Results file already exists at /home/abhi/Pictures/custom_results/fact_check_results.json. Skipping processing.
+2025-11-29 02:40:44,712 - INFO - Starting fact-checking script
+2025-11-29 02:40:44,712 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-29 02:40:44,712 - INFO - Processing 2 claims with maximum 10 API calls
+2025-11-29 02:40:44,713 - INFO - Processing claim 1/2
+2025-11-29 02:40:44,713 - INFO - Processing claim 2/2
+2025-11-29 02:40:44,713 - INFO - Processed 2/2 claims, 0 successful
+2025-11-29 02:40:44,713 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-29 02:40:44,713 - INFO - Fact-checking script completed. Results saved to /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-29 02:41:39,598 - INFO - Starting fact-checking script
+2025-11-29 02:41:39,598 - INFO - Results file already exists at /home/abhi/Pictures/custom_results/fact_check_results.json. Skipping processing.
+2025-11-29 02:41:48,861 - INFO - Starting fact-checking script
+2025-11-29 02:41:48,861 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/verified_claims.json
+2025-11-29 02:41:48,861 - INFO - Processing 2 claims with maximum 10 API calls
+2025-11-29 02:41:48,861 - INFO - Processing claim 1/2
+2025-11-29 02:41:48,861 - INFO - Processing claim 2/2
+2025-11-29 02:41:48,861 - INFO - Processed 2/2 claims, 0 successful
+2025-11-29 02:41:48,861 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-29 02:41:48,862 - INFO - Fact-checking script completed. Results saved to /home/abhi/Pictures/custom_results/fact_check_results.json

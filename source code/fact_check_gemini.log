@@ -1,0 +1,333 @@
+2025-11-28 22:19:02,485 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 22:19:02,486 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:19:02,486 - INFO - Successfully initialized Gemini model: gemini-2.5-flash
+2025-11-28 22:19:02,486 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 22:19:02,486 - INFO - Processing claim 1/3
+2025-11-28 22:19:02,487 - INFO - Sending prompt to Gemini (approx. 706 tokens)
+2025-11-28 22:19:23,141 - ERROR - Error generating response from Gemini: 
+2025-11-28 22:19:23,141 - INFO - Classified claim as 'error'
+2025-11-28 22:19:23,141 - INFO - Processing claim 2/3
+2025-11-28 22:19:23,141 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:19:23,141 - INFO - Processing claim 3/3
+2025-11-28 22:19:23,142 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:19:23,142 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:19:23,143 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 22:21:24,753 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 22:21:24,754 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:21:24,754 - INFO - Successfully initialized Gemini model: gemini-2.0-flash-exp
+2025-11-28 22:21:24,755 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 22:21:24,755 - INFO - Processing claim 1/3
+2025-11-28 22:21:24,755 - INFO - Sending prompt to Gemini (approx. 706 tokens)
+2025-11-28 22:21:26,301 - ERROR - Error generating response from Gemini: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 33.792169732s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-11-28 22:21:26,302 - INFO - Attempting to use streaming as fallback...
+2025-11-28 22:21:27,809 - ERROR - Error with streaming as well: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 32.37292831s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2025-11-28 22:21:27,809 - INFO - Classified claim as 'error'
+2025-11-28 22:21:27,809 - INFO - Processing claim 2/3
+2025-11-28 22:21:27,810 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:21:27,810 - INFO - Processing claim 3/3
+2025-11-28 22:21:27,810 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:21:27,811 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:21:27,812 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 22:25:53,302 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 22:25:53,302 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:25:53,303 - INFO - Successfully initialized Gemini model: gemini-2.0-flash-exp
+2025-11-28 22:25:53,303 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 22:25:53,303 - INFO - Processing claim 1/3
+2025-11-28 22:25:53,303 - INFO - Sending prompt to Gemini (approx. 706 tokens)
+2025-11-28 22:25:55,081 - ERROR - Error generating response from Gemini: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 5.017765366s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-11-28 22:25:55,082 - INFO - Attempting to use streaming as fallback...
+2025-11-28 22:25:56,183 - ERROR - Error with streaming as well: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 3.935480929s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-11-28 22:25:56,183 - INFO - Classified claim as 'error'
+2025-11-28 22:25:56,183 - INFO - Processing claim 2/3
+2025-11-28 22:25:56,183 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:25:56,183 - INFO - Processing claim 3/3
+2025-11-28 22:25:56,183 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:25:56,185 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:25:56,186 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 22:37:33,065 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 22:37:33,066 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:37:33,066 - INFO - Successfully initialized Gemini model: gemini-2.0-flash-exp
+2025-11-28 22:37:33,066 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 22:37:33,067 - INFO - Processing claim 1/3
+2025-11-28 22:37:33,067 - INFO - Sending prompt to Gemini (approx. 706 tokens)
+2025-11-28 22:37:34,623 - ERROR - Error generating response from Gemini: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 25.50509356s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2025-11-28 22:37:34,623 - INFO - Attempting to use streaming as fallback...
+2025-11-28 22:37:34,999 - ERROR - Error with streaming as well: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 25.128507288s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2025-11-28 22:37:35,000 - INFO - Classified claim as 'error'
+2025-11-28 22:37:35,000 - INFO - Processing claim 2/3
+2025-11-28 22:37:35,000 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:37:35,000 - INFO - Processing claim 3/3
+2025-11-28 22:37:35,000 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:37:35,001 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:37:35,002 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 22:38:37,256 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 22:38:37,257 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 22:38:37,257 - INFO - Successfully initialized Gemini model: gemini-2.5-flash
+2025-11-28 22:38:37,257 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 22:38:37,257 - INFO - Processing claim 1/3
+2025-11-28 22:38:37,258 - INFO - Sending prompt to Gemini (approx. 706 tokens)
+2025-11-28 22:38:44,521 - ERROR - Error generating response from Gemini: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-11-28 22:38:44,521 - INFO - Attempting to use streaming as fallback...
+2025-11-28 22:38:50,747 - ERROR - Error with streaming as well: 
+2025-11-28 22:38:50,747 - INFO - Classified claim as 'error'
+2025-11-28 22:38:50,747 - INFO - Processing claim 2/3
+2025-11-28 22:38:50,748 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:38:50,748 - INFO - Processing claim 3/3
+2025-11-28 22:38:50,748 - INFO - Classified claim as 'unverifiable'
+2025-11-28 22:38:50,749 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 22:38:50,749 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 23:16:53,787 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 23:16:53,788 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 23:16:53,789 - INFO - Successfully initialized Gemini model: gemini-2.5-flash
+2025-11-28 23:16:53,789 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 23:16:53,789 - INFO - Processing claim 1/3
+2025-11-28 23:16:53,789 - INFO - Sending prompt to Gemini:
+2025-11-28 23:16:53,789 - INFO -   - Article content: ~6694 tokens
+2025-11-28 23:16:53,789 - INFO -   - Total prompt: ~6845 tokens (limit: 7192)
+2025-11-28 23:17:01,390 - ERROR - Error generating response from Gemini: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-11-28 23:17:01,390 - INFO - Attempting to use streaming as fallback...
+2025-11-28 23:17:07,739 - ERROR - Error with streaming as well: 
+2025-11-28 23:17:07,740 - INFO - Classified claim as 'error'
+2025-11-28 23:17:07,740 - INFO - Processing claim 2/3
+2025-11-28 23:17:07,740 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:17:07,740 - INFO - Processing claim 3/3
+2025-11-28 23:17:07,740 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:17:07,741 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 23:17:07,741 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 23:18:41,244 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 23:18:41,245 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 23:18:41,246 - INFO - Successfully initialized Gemini model: gemini-2.5-flash
+2025-11-28 23:18:41,246 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 23:18:41,246 - INFO - Processing claim 1/3
+2025-11-28 23:18:41,246 - INFO - Sending prompt to Gemini:
+2025-11-28 23:18:41,246 - INFO -   - Article content: ~6694 tokens
+2025-11-28 23:18:41,246 - INFO -   - Total prompt: ~6845 tokens (limit: 7192)
+2025-11-28 23:18:48,510 - WARNING - Response finished with reason: 1
+2025-11-28 23:18:48,510 - INFO - Classified claim as 'false'
+2025-11-28 23:18:48,510 - INFO - Processing claim 2/3
+2025-11-28 23:18:48,510 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:18:48,510 - INFO - Processing claim 3/3
+2025-11-28 23:18:48,510 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:18:48,511 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 23:18:48,511 - INFO - Fact-checking classification script with Gemini completed
+2025-11-28 23:22:07,362 - INFO - Starting fact-checking classification script with Gemini API
+2025-11-28 23:22:07,363 - INFO - Successfully loaded data from /home/abhi/Pictures/custom_results/fact_check_results.json
+2025-11-28 23:22:07,363 - INFO - Successfully initialized Gemini model: gemini-2.5-flash
+2025-11-28 23:22:07,363 - INFO - Processing 3 claims with Gemini using 8192 token context window
+2025-11-28 23:22:07,363 - INFO - Processing claim 1/3
+2025-11-28 23:22:07,364 - INFO - Sending prompt to Gemini:
+2025-11-28 23:22:07,364 - INFO -   - Article content: ~6694 tokens
+2025-11-28 23:22:07,364 - INFO -   - Total prompt: ~6936 tokens (limit: 7192)
+2025-11-28 23:22:15,414 - WARNING - Response finished with reason: 2
+2025-11-28 23:22:15,414 - WARNING - Response was blocked due to safety concerns
+2025-11-28 23:22:15,414 - INFO - Classified claim as 'error'
+2025-11-28 23:22:15,415 - INFO - Processing claim 2/3
+2025-11-28 23:22:15,415 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:22:15,415 - INFO - Processing claim 3/3
+2025-11-28 23:22:15,415 - INFO - Classified claim as 'unverifiable'
+2025-11-28 23:22:15,416 - INFO - Results saved to /home/abhi/Pictures/custom_results/fact_check_classification_results.json
+2025-11-28 23:22:15,417 - INFO - Fact-checking classification script with Gemini completed

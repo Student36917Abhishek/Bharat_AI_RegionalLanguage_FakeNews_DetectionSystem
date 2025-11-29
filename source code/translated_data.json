@@ -1,0 +1,847 @@
+[
+    {
+        "url": "https://www.reddit.com/r/FinancialCareers/comments/1hl87rp/far_too_many_people_are_pursuing_a_career_in/",
+        "original_text": "This might get some downvotes but I am happy to discuss. I feel like far too many people are trying to become investment bankers and work in finance in general. Just take a look at all the websites and expensive guides on how to land your first investment banking internship, etc. - the financial career itself has become a career for many people. \n\nI work as a quant myself and this is not meant to be rant post. I genuinely feel like too many young people are wasting their potential by convulsively trying to work in finance. The job market really reflects that. There are simply far too many people applying to the same jobs.\n\nWhat’s your take on it? \n\nEdit: Made some edits as the post came across wrong to some people. I am genuinely interested. This is just my anecdotal-evidence-type observation (and maybe/probably heavily biased). \n",
+        "translated_text": "This might get some downvotes but I am happy to discuss. I feel like far too many people are trying to become investment bankers and work in finance in general. Just take a look at all the websites and expensive guides on how to land your first investment banking internship, etc. - the financial career itself has become a career for many people. \n\nI work as a quant myself and this is not meant to be rant post. I genuinely feel like too many young people are wasting their potential by convulsively trying to work in finance. The job market really reflects that. There are simply far too many people applying to the same jobs.What’s your take on it? \n\nEdit: Made some edits as the post came across wrong to some people. I am genuinely interested. This is just my anecdotal-evidence-type observation (and maybe/probably heavily biased). \n",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 1,
+        "translation_details": {
+            "\n\nWhat’s your take on it?": {
+                "translation": "What’s your take on it?",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/unpopularopinion/comments/1i3aqty/finance_ppl_are_so_uncomfortable_to_be_around/",
+        "original_text": "tbh I've never felt comfortable let alone safe around finance bros or girls. these are the same people who were meathead guys at sports games and frats and sorority chicks in college. I don't understand this group and why they have a such a chokehold on society? there's little to no empathy or compassion amongst them? why are they so powerful? even older versions of them don't feel safe to be around.\n\nI always found goofy or fluid/creative ppl much more comfortable regardless of age.",
+        "translated_text": "tbh I've never felt comfortable let alone safe around finance bros or girls. these are the same people who were meathead guys at sports games and frats and sorority chicks in college. I don't understand this group and why they have a such a chokehold on society? there's little to no empathy or compassion amongst them? why are they so powerful? even older versions of them don't feel safe to be around.\n\nI always found goofy or fluid/creative ppl much more comfortable regardless of age.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/Accounting/comments/1mg4rz8/confessions_from_a_finance_guy_exaccountant/",
+        "original_text": "I used to be in Accounting, grinding through month-end closes, reconciling accounts, fixing variances, and living under constant deadline pressure. I know exactly how brutal it is. Late nights, endless checklists, and the expectation to be perfect under fire.\n\nNow that I’m in Finance, my life is very different.\n\nEvery month, the Accounting team (the same kind of team I used to be on) works their asses off to produce accurate numbers. I see how hard they’re grinding, how tired they are, how much pressure they’re under. Once they’re done, they bring me in, walk me through what happened, explain the variances, and give me the full context in a 30 minute meeting every month.\n\nThen I go into executive meetings and repeat pretty much exactly they told me, dressed up with a few charts and bullet points. That’s it.\n\nSame numbers. Same story. Different audience. Bigger paycheck. Much bigger paycheck, and I’m grateful most of the accountants can’t see that, because I don’t let them.\n\nI don’t touch reconciliations anymore. I don’t fix journal entry mistakes. I just analyze what they give me and deliver it to leadership as “Financial insights.”\n\nAnd here’s the part that feels ridiculous: I get paid significantly more now than when I was the one doing the hard work in Accounting while working half as much. I do understand that it is my ass if the accountants don’t deliver on time, and I feel bad that sometimes it’s on me who creates the pressure, but I guess that is where my value comes from.\n\nI respect Accounting deeply because I’ve been there. They’re the backbone of every month-end close. But the disconnect is real: Accounting sweats to build the numbers; Finance gets paid to tell the story.",
+        "translated_text": "I used to be in Accounting, grinding through month-end closes, reconciling accounts, fixing variances, and living under constant deadline pressure. I know exactly how brutal it is. Late nights, endless checklists, and the expectation to be perfect under fire.Now that I’m in Finance, my life is very different.\n\nEvery month, the Accounting team (the same kind of team I used to be on) works their asses off to produce accurate numbers.I see how hard they’re grinding, how tired they are, how much pressure they’re under.Once they’re done, they bring me in, walk me through what happened, explain the variances, and give me the full context in a 30 minute meeting every month.\n\nThen I go into executive meetings and repeat pretty much exactly they told me, dressed up with a few charts and bullet points.That’s it.\n\nSame numbers. Same story. Different audience. Bigger paycheck.Much bigger paycheck, and I’m grateful most of the accountants can’t see that, because I don’t let them.I don’t touch reconciliations anymore.I don’t fix journal entry mistakes.I just analyze what they give me and deliver it to leadership as “Financial insights.”\n\nAnd here’s the part that feels ridiculous: I get paid significantly more now than when I was the one doing the hard work in Accounting while working half as much.I do understand that it is my ass if the accountants don’t deliver on time, and I feel bad that sometimes it’s on me who creates the pressure, but I guess that is where my value comes from.I respect Accounting deeply because I’ve been there.They’re the backbone of every month-end close. But the disconnect is real: Accounting sweats to build the numbers; Finance gets paid to tell the story.",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 12,
+        "translation_details": {
+            "\n\nNow that I’m in Finance, my life is very different.": {
+                "translation": "Now that I’m in Finance, my life is very different.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I see how hard they’re grinding, how tired they are, how much pressure they’re under.": {
+                "translation": "I see how hard they’re grinding, how tired they are, how much pressure they’re under.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Once they’re done, they bring me in, walk me through what happened, explain the variances, and give me the full context in a 30 minute meeting every month.": {
+                "translation": "Once they’re done, they bring me in, walk me through what happened, explain the variances, and give me the full context in a 30 minute meeting every month.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " That’s it.": {
+                "translation": "That’s it.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Much bigger paycheck, and I’m grateful most of the accountants can’t see that, because I don’t let them.": {
+                "translation": "Much bigger paycheck, and I’m grateful most of the accountants can’t see that, because I don’t let them.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nI don’t touch reconciliations anymore.": {
+                "translation": "I don’t touch reconciliations anymore.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I don’t fix journal entry mistakes.": {
+                "translation": "I don’t fix journal entry mistakes.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I just analyze what they give me and deliver it to leadership as “Financial insights.": {
+                "translation": "I just analyze what they give me and deliver it to leadership as “Financial insights.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "”\n\nAnd here’s the part that feels ridiculous: I get paid significantly more now than when I was the one doing the hard work in Accounting while working half as much.": {
+                "translation": "”\n\nAnd here’s the part that feels ridiculous: I get paid significantly more now than when I was the one doing the hard work in Accounting while working half as much.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I do understand that it is my ass if the accountants don’t deliver on time, and I feel bad that sometimes it’s on me who creates the pressure, but I guess that is where my value comes from.": {
+                "translation": "I do understand that it is my ass if the accountants don’t deliver on time, and I feel bad that sometimes it’s on me who creates the pressure, but I guess that is where my value comes from.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nI respect Accounting deeply because I’ve been there.": {
+                "translation": "I respect Accounting deeply because I’ve been there.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " They’re the backbone of every month-end close.": {
+                "translation": "They’re the backbone of every month-end close.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/AskNYC/comments/1fhn4vm/how_much_do_people_that_work_in_finance_really/",
+        "original_text": "I know nothing about finance, but I was hanging out in El Vez in the Financial district a few nights ago and  a massive group of guys in blue pants and white shirts with no pockets walked in. I'm assuming most of them were from Goldman Sachs at 200 West St.\n\nAs an outsider, can anyone tell me  finance people make at different levels? I know there are various sectors like investment banking, hedge funds, and private equity, etc.  For example how much does someone in their mid-20s with 3-4 years experience make a year after bonuses? $500K+?",
+        "translated_text": "I know nothing about finance, but I was hanging out in El Vez in the Financial district a few nights ago and  a massive group of guys in blue pants and white shirts with no pockets walked in. I'm assuming most of them were from Goldman Sachs at 200 West St.\n\nAs an outsider, can anyone tell me  finance people make at different levels? I know there are various sectors like investment banking, hedge funds, and private equity, etc.  For example how much does someone in their mid-20s with 3-4 years experience make a year after bonuses? $500K+?",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/biglaw/comments/1oey6xq/i_hate_finance/",
+        "original_text": "I can’t tell anyone at work but I need to say this somewhere. I’m a new first year in finance and it sucks so much. All of the people I work with are super nice, I just hate the subject matter. I can’t wrap my head around it at all. The perfect combo of boring and confusing. If I have to hear about the general partner of the general partner of the general partner ever again I’m going to jump out the window (of my apartment, because my office obviously doesn’t have one). ",
+        "translated_text": "I can’t tell anyone at work but I need to say this somewhere.I’m a new first year in finance and it sucks so much. All of the people I work with are super nice, I just hate the subject matter.I can’t wrap my head around it at all. The perfect combo of boring and confusing.If I have to hear about the general partner of the general partner of the general partner ever again I’m going to jump out the window (of my apartment, because my office obviously doesn’t have one). ",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 4,
+        "translation_details": {
+            "I can’t tell anyone at work but I need to say this somewhere.": {
+                "translation": "I can’t tell anyone at work but I need to say this somewhere.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’m a new first year in finance and it sucks so much.": {
+                "translation": "I’m a new first year in finance and it sucks so much.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I can’t wrap my head around it at all.": {
+                "translation": "I can’t wrap my head around it at all.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " If I have to hear about the general partner of the general partner of the general partner ever again I’m going to jump out the window (of my apartment, because my office obviously doesn’t have one).": {
+                "translation": "If I have to hear about the general partner of the general partner of the general partner ever again I’m going to jump out the window (of my apartment, because my office obviously doesn’t have one).",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/overemployed/comments/1nemarg/for_those_in_finance/",
+        "original_text": "I’m wondering how those who work remote finance positions at $100K+ found their roles? Whether it’s consulting or an actual company - I have my CPA and MBA in Finance with about 12 years corporate experience and 4 military. \nI’ve been going crazy trying to find a remote finance position - even part time, but I’m obviously not looking in the right places. Any guidance / advice? ",
+        "translated_text": "I’m wondering how those who work remote finance positions at $100K+ found their roles?Whether it’s consulting or an actual company - I have my CPA and MBA in Finance with about 12 years corporate experience and 4 military.I’ve been going crazy trying to find a remote finance position - even part time, but I’m obviously not looking in the right places. Any guidance / advice? ",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 3,
+        "translation_details": {
+            "I’m wondering how those who work remote finance positions at $100K+ found their roles?": {
+                "translation": "I’m wondering how those who work remote finance positions at $100K+ found their roles?",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Whether it’s consulting or an actual company - I have my CPA and MBA in Finance with about 12 years corporate experience and 4 military.": {
+                "translation": "Whether it’s consulting or an actual company - I have my CPA and MBA in Finance with about 12 years corporate experience and 4 military.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \nI’ve been going crazy trying to find a remote finance position - even part time, but I’m obviously not looking in the right places.": {
+                "translation": "I’ve been going crazy trying to find a remote finance position - even part time, but I’m obviously not looking in the right places.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://i.redd.it/w90dcajp73vf1.jpeg",
+        "original_text": "I just finished reading Rich Dad Poor Dad, and honestly, I'm shocked at how overrated it is. It's marketed as a life-changing financial guide, but most of it feels like vague motivational talk rather than practical advice.\n\nNo real strategies, no clear financial steps, it feels more like motivational storytelling than actual financial education. Lots of \"be your own boss\" talk, but very little real-world guidance or actionable advice.\n\nAnyone else feel the same way after finishing it? Or am I missing something that made it click for others?",
+        "translated_text": "I just finished reading Rich Dad Poor Dad, and honestly, I'm shocked at how overrated it is. It's marketed as a life-changing financial guide, but most of it feels like vague motivational talk rather than practical advice.\n\nNo real strategies, no clear financial steps, it feels more like motivational storytelling than actual financial education. Lots of \"be your own boss\" talk, but very little real-world guidance or actionable advice.\n\nAnyone else feel the same way after finishing it? Or am I missing something that made it click for others?",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/Life/comments/1ohnq7u/nobody_really_prepares_you_for_how_much_of_adult/",
+        "original_text": "I turned 30 a few months ago, and lately I’ve been thinking about how weird adulthood actually is.\n\nWhen I was younger, I thought being an adult meant having a career, maybe a family, a place of my own - that kind of stuff. But now that I’m here, it’s just… keeping track of a thousand tiny things that no one ever mentioned.\n\nBills, credit reports, taxes, lease renewals, random subscriptions I didn’t know I had, paperwork for literally everything. I’ve spent so much time this year just fixing things I didn’t even know needed fixing.\n\nLike, I found out recently that paying rent and utilities on time doesn’t automatically help your credit. That blew my mind. I thought being responsible meant something measurable, but apparently you have to do extra steps for it to even “count.”\n\nIt’s not that I’m doing bad. I’ve got a stable job, I’m healthy, I’m okay. It’s just that life feels like a bunch of quiet maintenance tasks stacked on top of each other. And if you stop keeping up, everything slowly falls apart. I even started using this debit based credit card(Fizz) that reports to credit bureau, so I was building credit debt-free.\n\nI guess I just wish someone told me earlier that “getting your life together” doesn’t mean fixing it once, it means constantly checking that it’s not falling apart.\n\nAnyway, that’s where I’m at. Not sad, not stressed. Just realizing that adulthood is mostly invisible work no one claps for.",
+        "translated_text": "I turned 30 a few months ago, and lately I’ve been thinking about how weird adulthood actually is.\n\nWhen I was younger, I thought being an adult meant having a career, maybe a family, a place of my own - that kind of stuff.But now that I’m here, it’s just… keeping track of a thousand tiny things that no one ever mentioned.Bills, credit reports, taxes, lease renewals, random subscriptions I didn’t know I had, paperwork for literally everything.I’ve spent so much time this year just fixing things I didn’t even know needed fixing.Like, I found out recently that paying rent and utilities on time doesn’t automatically help your credit. That blew my mind.I thought being responsible meant something measurable, but apparently you have to do extra steps for it to even “count.”\n\nIt’s not that I’m doing bad.I’ve got a stable job, I’m healthy, I’m okay.It’s just that life feels like a bunch of quiet maintenance tasks stacked on top of each other. And if you stop keeping up, everything slowly falls apart. I even started using this debit based credit card(Fizz) that reports to credit bureau, so I was building credit debt-free.I guess I just wish someone told me earlier that “getting your life together” doesn’t mean fixing it once, it means constantly checking that it’s not falling apart.Anyway, that’s where I’m at. Not sad, not stressed. Just realizing that adulthood is mostly invisible work no one claps for.",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 11,
+        "translation_details": {
+            "I turned 30 a few months ago, and lately I’ve been thinking about how weird adulthood actually is.": {
+                "translation": "I turned 30 a few months ago, and lately I’ve been thinking about how weird adulthood actually is.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " But now that I’m here, it’s just… keeping track of a thousand tiny things that no one ever mentioned.": {
+                "translation": "But now that I’m here, it’s just… keeping track of a thousand tiny things that no one ever mentioned.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nBills, credit reports, taxes, lease renewals, random subscriptions I didn’t know I had, paperwork for literally everything.": {
+                "translation": "Bills, credit reports, taxes, lease renewals, random subscriptions I didn’t know I had, paperwork for literally everything.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’ve spent so much time this year just fixing things I didn’t even know needed fixing.": {
+                "translation": "I’ve spent so much time this year just fixing things I didn’t even know needed fixing.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nLike, I found out recently that paying rent and utilities on time doesn’t automatically help your credit.": {
+                "translation": "Like, I found out recently that paying rent and utilities on time doesn’t automatically help your credit.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I thought being responsible meant something measurable, but apparently you have to do extra steps for it to even “count.": {
+                "translation": "I thought being responsible meant something measurable, but apparently you have to do extra steps for it to even “count.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "”\n\nIt’s not that I’m doing bad.": {
+                "translation": "”\n\nIt’s not that I’m doing bad.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’ve got a stable job, I’m healthy, I’m okay.": {
+                "translation": "I’ve got a stable job, I’m healthy, I’m okay.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " It’s just that life feels like a bunch of quiet maintenance tasks stacked on top of each other.": {
+                "translation": "It’s just that life feels like a bunch of quiet maintenance tasks stacked on top of each other.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nI guess I just wish someone told me earlier that “getting your life together” doesn’t mean fixing it once, it means constantly checking that it’s not falling apart.": {
+                "translation": "I guess I just wish someone told me earlier that “getting your life together” doesn’t mean fixing it once, it means constantly checking that it’s not falling apart.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nAnyway, that’s where I’m at.": {
+                "translation": "Anyway, that’s where I’m at.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/AITAH/comments/1hi0tqe/aitah_for_refusing_to_let_my_finances_ex_give_a/",
+        "original_text": "\n\nMy fiance was dating \"Katy\" for years then they broke it off. She still comes around since she's close to his family. By how much time they had dpent together, Katy seems to know my fiance really well. That didn't bother me at first, but it became an issue when she asked that I let her give a speech st the wedding since she knows him well, and wanted to tell \"few funny\" stories about him. I felt extremely uncomfortable and told her I was sorry but it didn't think if was appropriate for her to do that. My fmil got involved and started lecturing me saying I need to stop being negative and claimed I was making this \"about me\"  (but that's my wedding!) My fiance is choosing to stay out of it, but the pressure is on me now. I'm being called \"oversensitive\" and needed to \"losses up\" as this could be a good opportunity to add more laughter and joy to the event, but to be completely honest on here, I don't want his ex to take any part in our wedding, even if she's a friend of the family and they'd known her since she was a teenager.\n",
+        "translated_text": "\n\nMy fiance was dating \"Katy\" for years then they broke it off. She still comes around since she's close to his family. By how much time they had dpent together, Katy seems to know my fiance really well. That didn't bother me at first, but it became an issue when she asked that I let her give a speech st the wedding since she knows him well, and wanted to tell \"few funny\" stories about him. I felt extremely uncomfortable and told her I was sorry but it didn't think if was appropriate for her to do that. My fmil got involved and started lecturing me saying I need to stop being negative and claimed I was making this \"about me\"  (but that's my wedding!) My fiance is choosing to stay out of it, but the pressure is on me now. I'm being called \"oversensitive\" and needed to \"losses up\" as this could be a good opportunity to add more laughter and joy to the event, but to be completely honest on here, I don't want his ex to take any part in our wedding, even if she's a friend of the family and they'd known her since she was a teenager.\n",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/gallery/1ksg3z7",
+        "original_text": "Folks, I think we're done for.",
+        "translated_text": "Folks, I think we're done for.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/AmItheAsshole/comments/1grf1a8/aita_for_not_giving_back_my_finances_deceased/",
+        "original_text": "Throwaway account. I 29 female am engaged to Jake 32, male. We have been engaged for 2 years. He has an older brother, Sam 38. \n\nWhen Jake and I got engaged Jake wanted me to have his grandmothers engagement ring. Jake talked to Sam and Sam said since he doesn’t plan to get married or have children that Jake should use the ring. \n\nI love that ring and love the sentimental meaning behind it. Sam met a wonderful woman, Hannah, within the past year and they are expecting a child. Once they found out it would be a girl Hannah told Sam she wants him to get the ring back for their daughter. \n\nJake has already told Sam no. \n\nDuring Sunday dinner last weekend at my mother in laws house Hannah brought up the ring and how it should be given to their daughter since she would a great grandchild and I am not related by blood. It became an intense discussion. Luckily my mother in law also agrees with my fiance and I. \n\nHannah then asked if her daughter could have it in our will. I said no because it will either be given to our son or our future daughter. I told Hannah to take up her problem with Sam since he’s the one who let Jake have the ring to give to me. \n\nHannah ended up leaving the house crying. AITA?",
+        "translated_text": "Throwaway account. I 29 female am engaged to Jake 32, male. We have been engaged for 2 years. He has an older brother, Sam 38. \n\nWhen Jake and I got engaged Jake wanted me to have his grandmothers engagement ring.Jake talked to Sam and Sam said since he doesn’t plan to get married or have children that Jake should use the ring. \n\nI love that ring and love the sentimental meaning behind it. Sam met a wonderful woman, Hannah, within the past year and they are expecting a child. Once they found out it would be a girl Hannah told Sam she wants him to get the ring back for their daughter. \n\nJake has already told Sam no. \n\nDuring Sunday dinner last weekend at my mother in laws house Hannah brought up the ring and how it should be given to their daughter since she would a great grandchild and I am not related by blood. It became an intense discussion. Luckily my mother in law also agrees with my fiance and I. \n\nHannah then asked if her daughter could have it in our will. I said no because it will either be given to our son or our future daughter.I told Hannah to take up her problem with Sam since he’s the one who let Jake have the ring to give to me. \n\nHannah ended up leaving the house crying. AITA?",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 2,
+        "translation_details": {
+            " Jake talked to Sam and Sam said since he doesn’t plan to get married or have children that Jake should use the ring.": {
+                "translation": "Jake talked to Sam and Sam said since he doesn’t plan to get married or have children that Jake should use the ring.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I told Hannah to take up her problem with Sam since he’s the one who let Jake have the ring to give to me.": {
+                "translation": "I told Hannah to take up her problem with Sam since he’s the one who let Jake have the ring to give to me.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/Accounting/comments/1l2ao3p/new_finance_director_doesnt_understand/",
+        "original_text": "About six weeks ago, our company hired a new Finance Director. I'm a senior accountant and report directly to her. She came with what looked like an impressive resume 20+ years in corporate finance, Big 4 background, MBA from a respected program.\n\nYesterday, I was walking her through our monthly close process when she asked me to explain why we \"waste money every month on depreciation expenses when we're not actually spending anything.\"\n\nI thought she was testing me at first. I explained that depreciation allocates the cost of assets over their useful lives, matching expenses with the periods that benefit from the asset. She stared at me blankly and said, \"But we already paid for the equipment. Why are we expensing it again?\"\n\nWhen I mentioned that this is basic GAAP and showed her the journal entries, she asked me to \"walk through it step by step because this seems unnecessarily complicated.\" I spent 30 minutes explaining concepts that are literally covered in Accounting 101.\n\nShe also asked why we can't just expense our new $50K server \"to get the tax write-off this year instead of spreading it out.\" When I explained capitalization thresholds and asset vs. expense classification, she suggested we \"check with the tax guy because this doesn't seem right.\"\n\nThe kicker? She's supposed to be reviewing our financial statements for accuracy before they go to the board next week.\n\nEdit: For context, this is a $15M revenue manufacturing company, not some tiny startup where you might expect less formal accounting.\n\nEdit 2: She also asked yesterday why our cash flow statement \"doesn't match the P&L\" and seemed genuinely confused when I explained that net income isn't the same as cash flow.\n\nI'm honestly questioning how she made it through 20 years in finance without understanding these fundamentals. Either she's been coasting in roles where others did the actual work, or there's some serious resume inflation happening here.",
+        "translated_text": "About six weeks ago, our company hired a new Finance Director. I'm a senior accountant and report directly to her. She came with what looked like an impressive resume 20+ years in corporate finance, Big 4 background, MBA from a respected program.\n\nYesterday, I was walking her through our monthly close process when she asked me to explain why we \"waste money every month on depreciation expenses when we're not actually spending anything.\"\n\nI thought she was testing me at first. I explained that depreciation allocates the cost of assets over their useful lives, matching expenses with the periods that benefit from the asset. She stared at me blankly and said, \"But we already paid for the equipment. Why are we expensing it again?\"\n\nWhen I mentioned that this is basic GAAP and showed her the journal entries, she asked me to \"walk through it step by step because this seems unnecessarily complicated.\" I spent 30 minutes explaining concepts that are literally covered in Accounting 101.\n\nShe also asked why we can't just expense our new $50K server \"to get the tax write-off this year instead of spreading it out.\" When I explained capitalization thresholds and asset vs. expense classification, she suggested we \"check with the tax guy because this doesn't seem right.\"\n\nThe kicker? She's supposed to be reviewing our financial statements for accuracy before they go to the board next week.\n\nEdit: For context, this is a $15M revenue manufacturing company, not some tiny startup where you might expect less formal accounting.\n\nEdit 2: She also asked yesterday why our cash flow statement \"doesn't match the P&L\" and seemed genuinely confused when I explained that net income isn't the same as cash flow.\n\nI'm honestly questioning how she made it through 20 years in finance without understanding these fundamentals. Either she's been coasting in roles where others did the actual work, or there's some serious resume inflation happening here.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    },
+    {
+        "url": "https://www.reddit.com/r/FluentInFinance/comments/1h2p3is/elon_musk_has_called_to_delete_the_consumer/",
+        "original_text": "Elon Musk on Wednesday called for the elimination of the Consumer Financial Protection Bureau, one of the nation’s most powerful watchdog agencies, signaling it could be scrapped as part of a planned review of government spending ordered by President-elect Donald Trump.\n\n“Delete CFPB,” Musk said in an early-morning post on X, the social media site he owns, categorizing the bureau as an example of “too many duplicative regulatory agencies” in Washington.\n\nFormed in the wake of the 2008 banking crisis, the CFPB has a broad mandate to protect Americans from unfair, deceptive or predatory financial practices. Its current director — Rohit Chopra, a Democrat — has recently issued rules meant to shield people from medical debt, make it easier for them to switch banks and limit the fees they face from falling behind on their credit card bills.\n\nSince its founding, the CFPB has secured more than $19 billion in consumer relief, while penalizing large financial institutions and technology firms for allegedly mishandling Americans’ money. Its oversight often has stoked the ire of the nation’s biggest banks, credit card companies and other lenders, which have sued the bureau repeatedly over charges of regulatory overreach.\n\n[https://www.washingtonpost.com/business/2024/11/27/elon-musk-delete-cfpb-doge/](https://www.washingtonpost.com/business/2024/11/27/elon-musk-delete-cfpb-doge/)",
+        "translated_text": "Elon Musk on Wednesday called for the elimination of the Consumer Financial Protection Bureau, one of the nation’s most powerful watchdog agencies, signaling it could be scrapped as part of a planned review of government spending ordered by President-elect Donald Trump.“Delete CFPB,” Musk said in an early-morning post on X, the social media site he owns, categorizing the bureau as an example of “too many duplicative regulatory agencies” in Washington.\n\nFormed in the wake of the 2008 banking crisis, the CFPB has a broad mandate to protect Americans from unfair, deceptive or predatory financial practices.Its current director — Rohit Chopra, a Democrat — has recently issued rules meant to shield people from medical debt, make it easier for them to switch banks and limit the fees they face from falling behind on their credit card bills.Since its founding, the CFPB has secured more than $19 billion in consumer relief, while penalizing large financial institutions and technology firms for allegedly mishandling Americans’ money.Its oversight often has stoked the ire of the nation’s biggest banks, credit card companies and other lenders, which have sued the bureau repeatedly over charges of regulatory overreach.\n\n[https://www.washingtonpost.com/business/2024/11/27/elon-musk-delete-cfpb-doge/](https://www.washingtonpost.com/business/2024/11/27/elon-musk-delete-cfpb-doge/)",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 5,
+        "translation_details": {
+            "Elon Musk on Wednesday called for the elimination of the Consumer Financial Protection Bureau, one of the nation’s most powerful watchdog agencies, signaling it could be scrapped as part of a planned review of government spending ordered by President-elect Donald Trump.": {
+                "translation": "Elon Musk on Wednesday called for the elimination of the Consumer Financial Protection Bureau, one of the nation’s most powerful watchdog agencies, signaling it could be scrapped as part of a planned review of government spending ordered by President-elect Donald Trump.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\n“Delete CFPB,” Musk said in an early-morning post on X, the social media site he owns, categorizing the bureau as an example of “too many duplicative regulatory agencies” in Washington.": {
+                "translation": "“Delete CFPB,” Musk said in an early-morning post on X, the social media site he owns, categorizing the bureau as an example of “too many duplicative regulatory agencies” in Washington.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Its current director — Rohit Chopra, a Democrat — has recently issued rules meant to shield people from medical debt, make it easier for them to switch banks and limit the fees they face from falling behind on their credit card bills.": {
+                "translation": "Its current director — Rohit Chopra, a Democrat — has recently issued rules meant to shield people from medical debt, make it easier for them to switch banks and limit the fees they face from falling behind on their credit card bills.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "\n\nSince its founding, the CFPB has secured more than $19 billion in consumer relief, while penalizing large financial institutions and technology firms for allegedly mishandling Americans’ money.": {
+                "translation": "Since its founding, the CFPB has secured more than $19 billion in consumer relief, while penalizing large financial institutions and technology firms for allegedly mishandling Americans’ money.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Its oversight often has stoked the ire of the nation’s biggest banks, credit card companies and other lenders, which have sued the bureau repeatedly over charges of regulatory overreach.": {
+                "translation": "Its oversight often has stoked the ire of the nation’s biggest banks, credit card companies and other lenders, which have sued the bureau repeatedly over charges of regulatory overreach.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1fkc4es/my_finance_assaulted_his_bff_on_his_bachelor_party/",
+        "original_text": "**I am not The OOP, OOP is u/That-Caterpillar-400** \n\n**My finance assaulted his bff on his bachelor party** \n\n**Originally posted to r/Advice** \n\n**TRIGGER WARNING:** >!sexual assault, attempted rape, infidelity!< \n\n[Original Post](https://www.reddit.com/r/Advice/s/tj6XG51Eys)  **Sept 8, 2024** \n\nI don’t know what to do. My (f28) finance ( m28) Alex has a bff ( Dani 28) since they were 4. She’s not like the usual Reddit bff. She’s a lovely sweet person who has never crossed boundaries with Alex or their two other friends Marcus and Daniel. The four are very close. Dani is gay and always was. She is very much a woman but likes to dress in jeans and t shirts and not in any feminine clothing. She is lean tall has short hair and  is just one of the boys in a lot of ways.  \n\nThis weekend was Alex Bachelor party. All four plus two other of Alex friends went along. It was to a costal town that’s well know for hosting bachelor and bachelorette parties but there’s no strip club or anything. They stayed in a b&b and have scuba diving and kayaking planned. First night went ok dinner restaurant and night club and home. Last night was the issue. They did the nightclub and headed back to the house. Marcus and Daniel who are both single brought back two girls from the nightclub and got busy in their bedrooms. The rest were drinking in the living room but things got a bit loud and the two friends started complaining that they didn’t get to go to a strip club and never got to see t*ts and ass. They were blaming their wives and calling them names. Dani told them to shush as it was ruining the mood and they both thought it would be funny if they saw Dani’s body naked to make up for it. The thing is Alex joined in and they stripped her. She was screaming loudly and Marcus and Daniel came running and rescued Dani and put her in the a bedroom with the girls and had a fight with the three men. Daniel doesn’t drink due to a chronic medical condition and the medication he is on. So they packed up and took Dani and the two girls and left the other three. Dani was hysterical and Marcus wanted her to go to the police but she wouldn’t. She was afraid to go home so they ended up dropping the girls off and taking Dani to her parents which was an hour away. \n\nMarcus was at my door at 7am this morning and he told me what happened that if he ever sees Alex again he’s afraid of how things could go. He told me that if he can convince Dani to press charges he will . Then he left . \n\nAlex returned about 3 this afternoon. He was a ting normally until I told him Marcus has visited. He was very nervous and tried to play down what happened as a joke that got out of hand. I’m devastated. I heard him out but he knew I wasn’t accepting what he was saying. I told him Dani may be going to the police and he got very panicked and pale. He said she had him blocked and he wanted to go talk to her. I told him she wasn’t at her place as she was too afraid he or his “ buddies” would turn up there. I asked him to leave and he didn’t want to go but I insisted. He was crying saying it was a prank that got out of hand.   \n\nI heard him out only as a courtesy to our two year relationship but I’m done. I don’t know this man. I don’t know if I should reach out to Dani or just do nothing. Marcus and I have been in constant contact and he agrees that I have no option but to end things. I don’t know where to start with cancelling everything as the wedding was in 5 weeks but it seems trivial compared to what Dani is going through right now. Marcus is convinced that Dani is going to the police after talking to her parents so I think Alex is in trouble. I can’t support him on this. Maybe I’m wrong as he was drunk and probably had taken other things but this was his friend from age 4 and he did this to her. I’ve not blocked Alex but I’ve not replied or picked up any of his calls. \n\n[Update](https://www.reddit.com/r/Advice/s/iIIjzSw5uC)  **Sept 9, 2024** \n\nSorry I don’t know how to do updates so posting this separately. \n\nIt’s been a terrible day. I can’t reach out to my friends yet as I’m ashamed. I did tell my parents and my brother and they have been wonderful. My brother brought his friend with him when he came to stay and today both of them packed up every bit of my exes stuff and took it to his parents house. Ex was there and just asked if that meant I was finished with him and my brother said yes and did he really expect any other reaction? His father intervened and told ex not to say anything more. He told my brother to tell me to contact him on cancelling the wedding. I’m not contacting his father ever! \n\nMy parents are handling cancelling the wedding and my father got in to my cousin who is a lawyer and he is going to help and advise me as needed. I’ve to disentangle myself from ex on leases bank accounts savings and such although my brother made me transfer all of my money from joint accounts savings and daily accounts to my own account. It’s a mess . \n\nI tried to ring Dani but she isn’t up for speaking to anyone so I just text her that I was there for her and that I had broken up with Alex. She hasn’t replied and I don’t expect she will. She’s in a bad way apparently.   \n\nDaniel  spent three hours with me today. There’s a lot going on but I’m afraid to say too much for fear of damaging any court case.  Just to say there are two videos of the “incident” . One by Jeb (one of the two friends) a lot of it is chaotic but the last part is clear and telling apparently. The owners of the rental house apparently have gotten involved and have footage but I can’t say more. \n\nWhen Marcus left me he went to both those guys wives and told them what happened. Jebs wife has been “ very helpful” apparently and she has split from him.   The other guys wife too has left him. \n\nThings are going how most of you want them to go that’s all I will say . Well I will add it was worse than what Marcus shared . \n\nDaniel told me that before Dani found her style she had long hair and dressed feminine and was stunningly beautiful and all three of them were in love with her as teens. Alex took her rejection very personally apparently and Daniel says he was angry and bitter for a couple of years but hid it from her. The thought he had gotten over it but Daniel feels this smacks of revenge against her. Scary if this is true. I have and continue to receive hundreds of texts from Alex. He told me his father told him to stop texting me but he can’t. I haven’t replied or blocked based on “ advice”.  This is very hard and I don’t know what way all this is going to end up. Sorry about any mistakes and typos I’m not doing well. \nIf there’s more I will post again if I’m able. \n\n[Update 2](https://www.reddit.com/r/Advice/comments/1ffddbb/update_2_my_fiancé_assaulted_his_bff_on_his/)  **Sept 12, 2024** \n\nUpdate 2 my fiancé assaulted his Bff on his bachelor party \n\nHi all my last update my removed but if anyone is interested I thought I’d post the latest and get some advice. \n\nI got a call from Dani. Daniel has been ever present and I’m guessing it was because he knew she was going to call. There’s a lot more to the story. \n\nThe first night was normal as I said but in the Saturday Alex Jeb and their friend decided not to go scuba diving with Dani Daniel and Marcus.  Dani was feeling very hungover and gave up after an hour and went back to the airb&b. She walked into the living room to find all three guys engaging in sexual acts with two women. Jeb shouted at her to get out as this was costing them a fortune. The women were escorts. \n\nShe left and went back to the boat and only told Marcus what she saw. When they all went back later Alex told her to not tell me as it was just his last bit of freedom. She told him she was disgusted with him and that he wasn’t free. She told him she would have to think about what to do. Marcus convinced her to stay another night as he and Daniel had met the two girls the night before and were seeing them again that night and if Dani wanted to leave then Daniel would have to take her as he was her ride and there wasn’t public transport in the tiny town. \n\nSo Alex cheated as did the other two. Marcus told their wives that morning but not me. He was going to do it in stages as he knew I was in shock. The actual assault went further than Marcus told me also. And while Alex hadn’t actually done anything beyond pulling off her clothes ( unlike the other two ) he stood by and watched and did nothing to help her. \nShe said she thought he had taken shrooms  earlier but couldn’t be sure. \nMarcus and Daniel did rescue her but things had already escalated. \n\nShe went to the police immediately she got to her parents. The Airbnb owners had also gone independently when they saw the footage. All three men are facing the consequences of their actions. Dani told me she was sorry she didn’t leave  tell me immediately like she wanted to do. She is very distraught still I didn’t want to make things worse for her. \n\nI don’t think I am needed for any legal proceedings so I finally blocked Alex and his parents. The wedding is cancelled. And I’m just starting to disentangle myself from Alex on bank accounts and such. \n\nHere’s my issue. I’m feeling very angry towards Marcus. It feels like he didn’t really care about me. He stopped Dani from telling me so he could continue to shack up with the girl he met. He apparently feels guilty because if they had left Dani would not have been attacked. He didn’t do me the courtesy  of telling me that Alex cheated that morning like he did with the other two wives . It’s not like he was sparing my feelings because my ex assaulting another woman was a pretty damn bad thing to hear. He didn’t tell me the full extent of the attack. Dani is still unsure if Alex wasn’t just “waiting his turn” or he all he was going to do was watch. I should have been told that asap. And not from Dani because the conversation was incredibly difficult for her. Daniel didn’t know about the escorts at all and didn’t know Marcus hasn’t shared the full story of what they saw when they burst in. Daniel has been my rock.  I need some perspective here. Is it ok  to be angry at Marcus? Is it misplaced anger? I’m pretty angry at Alex though and that’s all I feel towards him. Can anyone give me a different perspective im missing? Marcus and I had been in constant contact. He’s already back at work so it was messages /texts and occasional calls. He actually visited last night but I didn’t open the door to him.  Daniel is saying whatever I feel right now is ok. But I think he’s just placating me. I don’t know who to trust anymore. \n\nI don’t have to have any more contact with Alex and think the case will move along without me. I’m thinking of telling Daniel that I need a break from him and Marcus and that group of friends. Dani and I have said we will stay in touch but I can’t see us being very close. My best friend who I finally confided in thinks I should just step away from them all now for good and try to move forward. My parents agree and think it’s necessary for healing. My brother thinks Daniel has been nothing but great and I shouldn’t cut him off.  But they all seem to be a package deal but without Alex now obviously. So I think it’s probably all or nothing. What should I do? I don’t want to be ungrateful but a clean break feels right. \n\n**THIS IS A REPOST SUB - I AM NOT THE OOP** \n\n**DO NOT CONTACT THE OOP's OR COMMENT ON LINKED POSTS, REMEMBER - RULE 7**,",
+        "translated_text": "**I am not The OOP, OOP is u/That-Caterpillar-400** \n\n**My finance assaulted his bff on his bachelor party** \n\n**Originally posted to r/Advice** \n\n**TRIGGER WARNING:** >!sexual assault, attempted rape, infidelity!< \n\n[Original Post](https://www.reddit.com/r/Advice/s/tj6XG51Eys)  **Sept 8, 2024** \n\nI don’t know what to do. My (f28) finance ( m28) Alex has a bff ( Dani 28) since they were 4.She’s not like the usual Reddit bff.She’s a lovely sweet person who has never crossed boundaries with Alex or their two other friends Marcus and Daniel. The four are very close. Dani is gay and always was. She is very much a woman but likes to dress in jeans and t shirts and not in any feminine clothing.She is lean tall has short hair and  is just one of the boys in a lot of ways.This weekend was Alex Bachelor party. All four plus two other of Alex friends went along.It was to a costal town that’s well know for hosting bachelor and bachelorette parties but there’s no strip club or anything. They stayed in a b&b and have scuba diving and kayaking planned. First night went ok dinner restaurant and night club and home. Last night was the issue. They did the nightclub and headed back to the house. Marcus and Daniel who are both single brought back two girls from the nightclub and got busy in their bedrooms.The rest were drinking in the living room but things got a bit loud and the two friends started complaining that they didn’t get to go to a strip club and never got to see t*ts and ass. They were blaming their wives and calling them names.Dani told them to shush as it was ruining the mood and they both thought it would be funny if they saw Dani’s body naked to make up for it. The thing is Alex joined in and they stripped her. She was screaming loudly and Marcus and Daniel came running and rescued Dani and put her in the a bedroom with the girls and had a fight with the three men.Daniel doesn’t drink due to a chronic medical condition and the medication he is on. So they packed up and took Dani and the two girls and left the other three.Dani was hysterical and Marcus wanted her to go to the police but she wouldn’t. She was afraid to go home so they ended up dropping the girls off and taking Dani to her parents which was an hour away.Marcus was at my door at 7am this morning and he told me what happened that if he ever sees Alex again he’s afraid of how things could go. He told me that if he can convince Dani to press charges he will . Then he left . \n\nAlex returned about 3 this afternoon. He was a ting normally until I told him Marcus has visited. He was very nervous and tried to play down what happened as a joke that got out of hand.I’m devastated.I heard him out but he knew I wasn’t accepting what he was saying. I told him Dani may be going to the police and he got very panicked and pale. He said she had him blocked and he wanted to go talk to her.I told him she wasn’t at her place as she was too afraid he or his “ buddies” would turn up there.I asked him to leave and he didn’t want to go but I insisted. He was crying saying it was a prank that got out of hand.I heard him out only as a courtesy to our two year relationship but I’m done.I don’t know this man.I don’t know if I should reach out to Dani or just do nothing. Marcus and I have been in constant contact and he agrees that I have no option but to end things.I don’t know where to start with cancelling everything as the wedding was in 5 weeks but it seems trivial compared to what Dani is going through right now. Marcus is convinced that Dani is going to the police after talking to her parents so I think Alex is in trouble.I can’t support him on this.Maybe I’m wrong as he was drunk and probably had taken other things but this was his friend from age 4 and he did this to her.I’ve not blocked Alex but I’ve not replied or picked up any of his calls. \n\n[Update](https://www.reddit.com/r/Advice/s/iIIjzSw5uC)  **Sept 9, 2024** \n\nSorry I don’t know how to do updates so posting this separately.It’s been a terrible day.I can’t reach out to my friends yet as I’m ashamed. I did tell my parents and my brother and they have been wonderful. My brother brought his friend with him when he came to stay and today both of them packed up every bit of my exes stuff and took it to his parents house. Ex was there and just asked if that meant I was finished with him and my brother said yes and did he really expect any other reaction? His father intervened and told ex not to say anything more. He told my brother to tell me to contact him on cancelling the wedding.I’m not contacting his father ever! \n\nMy parents are handling cancelling the wedding and my father got in to my cousin who is a lawyer and he is going to help and advise me as needed.I’ve to disentangle myself from ex on leases bank accounts savings and such although my brother made me transfer all of my money from joint accounts savings and daily accounts to my own account.It’s a mess .I tried to ring Dani but she isn’t up for speaking to anyone so I just text her that I was there for her and that I had broken up with Alex.She hasn’t replied and I don’t expect she will.She’s in a bad way apparently.Daniel  spent three hours with me today.There’s a lot going on but I’m afraid to say too much for fear of damaging any court case.Just to say there are two videos of the “incident” . One by Jeb (one of the two friends) a lot of it is chaotic but the last part is clear and telling apparently.The owners of the rental house apparently have gotten involved and have footage but I can’t say more. \n\nWhen Marcus left me he went to both those guys wives and told them what happened.Jebs wife has been “ very helpful” apparently and she has split from him.The other guys wife too has left him.Things are going how most of you want them to go that’s all I will say . Well I will add it was worse than what Marcus shared . \n\nDaniel told me that before Dani found her style she had long hair and dressed feminine and was stunningly beautiful and all three of them were in love with her as teens. Alex took her rejection very personally apparently and Daniel says he was angry and bitter for a couple of years but hid it from her. The thought he had gotten over it but Daniel feels this smacks of revenge against her. Scary if this is true. I have and continue to receive hundreds of texts from Alex.He told me his father told him to stop texting me but he can’t.I haven’t replied or blocked based on “ advice”.This is very hard and I don’t know what way all this is going to end up.Sorry about any mistakes and typos I’m not doing well.If there’s more I will post again if I’m able. \n\n[Update 2](https://www.reddit.com/r/Advice/comments/1ffddbb/update_2_my_fiancé_assaulted_his_bff_on_his/)  **Sept 12, 2024** \n\nUpdate 2 my fiancé assaulted his Bff on his bachelor party \n\nHi all my last update my removed but if anyone is interested I thought I’d post the latest and get some advice. \n\nI got a call from Dani.Daniel has been ever present and I’m guessing it was because he knew she was going to call.There’s a lot more to the story. \n\nThe first night was normal as I said but in the Saturday Alex Jeb and their friend decided not to go scuba diving with Dani Daniel and Marcus.Dani was feeling very hungover and gave up after an hour and went back to the airb&b. She walked into the living room to find all three guys engaging in sexual acts with two women. Jeb shouted at her to get out as this was costing them a fortune. The women were escorts. \n\nShe left and went back to the boat and only told Marcus what she saw. When they all went back later Alex told her to not tell me as it was just his last bit of freedom.She told him she was disgusted with him and that he wasn’t free. She told him she would have to think about what to do.Marcus convinced her to stay another night as he and Daniel had met the two girls the night before and were seeing them again that night and if Dani wanted to leave then Daniel would have to take her as he was her ride and there wasn’t public transport in the tiny town. \n\nSo Alex cheated as did the other two. Marcus told their wives that morning but not me. He was going to do it in stages as he knew I was in shock. The actual assault went further than Marcus told me also.And while Alex hadn’t actually done anything beyond pulling off her clothes ( unlike the other two ) he stood by and watched and did nothing to help her.She said she thought he had taken shrooms  earlier but couldn’t be sure. \nMarcus and Daniel did rescue her but things had already escalated. \n\nShe went to the police immediately she got to her parents. The Airbnb owners had also gone independently when they saw the footage. All three men are facing the consequences of their actions.Dani told me she was sorry she didn’t leave  tell me immediately like she wanted to do.She is very distraught still I didn’t want to make things worse for her.I don’t think I am needed for any legal proceedings so I finally blocked Alex and his parents. The wedding is cancelled.And I’m just starting to disentangle myself from Alex on bank accounts and such.Here’s my issue.I’m feeling very angry towards Marcus.It feels like he didn’t really care about me. He stopped Dani from telling me so he could continue to shack up with the girl he met. He apparently feels guilty because if they had left Dani would not have been attacked.He didn’t do me the courtesy  of telling me that Alex cheated that morning like he did with the other two wives .It’s not like he was sparing my feelings because my ex assaulting another woman was a pretty damn bad thing to hear.He didn’t tell me the full extent of the attack.Dani is still unsure if Alex wasn’t just “waiting his turn” or he all he was going to do was watch. I should have been told that asap. And not from Dani because the conversation was incredibly difficult for her.Daniel didn’t know about the escorts at all and didn’t know Marcus hasn’t shared the full story of what they saw when they burst in. Daniel has been my rock.I need some perspective here.Is it ok  to be angry at Marcus? Is it misplaced anger?I’m pretty angry at Alex though and that’s all I feel towards him. Can anyone give me a different perspective im missing? Marcus and I had been in constant contact.He’s already back at work so it was messages /texts and occasional calls.He actually visited last night but I didn’t open the door to him.Daniel is saying whatever I feel right now is ok.But I think he’s just placating me.I don’t know who to trust anymore.I don’t have to have any more contact with Alex and think the case will move along without me.I’m thinking of telling Daniel that I need a break from him and Marcus and that group of friends.Dani and I have said we will stay in touch but I can’t see us being very close. My best friend who I finally confided in thinks I should just step away from them all now for good and try to move forward.My parents agree and think it’s necessary for healing.My brother thinks Daniel has been nothing but great and I shouldn’t cut him off.But they all seem to be a package deal but without Alex now obviously.So I think it’s probably all or nothing. What should I do?I don’t want to be ungrateful but a clean break feels right. \n\n**THIS IS A REPOST SUB - I AM NOT THE OOP** \n\n**DO NOT CONTACT THE OOP's OR COMMENT ON LINKED POSTS, REMEMBER - RULE 7**,",
+        "detected_language": "eng_Latn",
+        "translation_method": "sentence_level",
+        "non_english_sentences_count": 79,
+        "translation_details": {
+            "com/r/Advice/s/tj6XG51Eys)  **Sept 8, 2024** \n\nI don’t know what to do.": {
+                "translation": "com/r/Advice/s/tj6XG51Eys)  **Sept 8, 2024** \n\nI don’t know what to do.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She’s not like the usual Reddit bff.": {
+                "translation": "She’s not like the usual Reddit bff.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She’s a lovely sweet person who has never crossed boundaries with Alex or their two other friends Marcus and Daniel.": {
+                "translation": "She’s a lovely sweet person who has never crossed boundaries with Alex or their two other friends Marcus and Daniel.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She is lean tall has short hair and  is just one of the boys in a lot of ways.": {
+                "translation": "She is lean tall has short hair and  is just one of the boys in a lot of ways.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  \n\nThis weekend was Alex Bachelor party.": {
+                "translation": "This weekend was Alex Bachelor party.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " It was to a costal town that’s well know for hosting bachelor and bachelorette parties but there’s no strip club or anything.": {
+                "translation": "It was to a costal town that’s well know for hosting bachelor and bachelorette parties but there’s no strip club or anything.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " The rest were drinking in the living room but things got a bit loud and the two friends started complaining that they didn’t get to go to a strip club and never got to see t*ts and ass.": {
+                "translation": "The rest were drinking in the living room but things got a bit loud and the two friends started complaining that they didn’t get to go to a strip club and never got to see t*ts and ass.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Dani told them to shush as it was ruining the mood and they both thought it would be funny if they saw Dani’s body naked to make up for it.": {
+                "translation": "Dani told them to shush as it was ruining the mood and they both thought it would be funny if they saw Dani’s body naked to make up for it.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Daniel doesn’t drink due to a chronic medical condition and the medication he is on.": {
+                "translation": "Daniel doesn’t drink due to a chronic medical condition and the medication he is on.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Dani was hysterical and Marcus wanted her to go to the police but she wouldn’t.": {
+                "translation": "Dani was hysterical and Marcus wanted her to go to the police but she wouldn’t.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nMarcus was at my door at 7am this morning and he told me what happened that if he ever sees Alex again he’s afraid of how things could go.": {
+                "translation": "Marcus was at my door at 7am this morning and he told me what happened that if he ever sees Alex again he’s afraid of how things could go.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’m devastated.": {
+                "translation": "I’m devastated.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I heard him out but he knew I wasn’t accepting what he was saying.": {
+                "translation": "I heard him out but he knew I wasn’t accepting what he was saying.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I told him she wasn’t at her place as she was too afraid he or his “ buddies” would turn up there.": {
+                "translation": "I told him she wasn’t at her place as she was too afraid he or his “ buddies” would turn up there.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I asked him to leave and he didn’t want to go but I insisted.": {
+                "translation": "I asked him to leave and he didn’t want to go but I insisted.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "   \n\nI heard him out only as a courtesy to our two year relationship but I’m done.": {
+                "translation": "I heard him out only as a courtesy to our two year relationship but I’m done.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I don’t know this man.": {
+                "translation": "I don’t know this man.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I don’t know if I should reach out to Dani or just do nothing.": {
+                "translation": "I don’t know if I should reach out to Dani or just do nothing.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I don’t know where to start with cancelling everything as the wedding was in 5 weeks but it seems trivial compared to what Dani is going through right now.": {
+                "translation": "I don’t know where to start with cancelling everything as the wedding was in 5 weeks but it seems trivial compared to what Dani is going through right now.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I can’t support him on this.": {
+                "translation": "I can’t support him on this.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Maybe I’m wrong as he was drunk and probably had taken other things but this was his friend from age 4 and he did this to her.": {
+                "translation": "Maybe I’m wrong as he was drunk and probably had taken other things but this was his friend from age 4 and he did this to her.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’ve not blocked Alex but I’ve not replied or picked up any of his calls.": {
+                "translation": "I’ve not blocked Alex but I’ve not replied or picked up any of his calls.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "com/r/Advice/s/iIIjzSw5uC)  **Sept 9, 2024** \n\nSorry I don’t know how to do updates so posting this separately.": {
+                "translation": "com/r/Advice/s/iIIjzSw5uC)  **Sept 9, 2024** \n\nSorry I don’t know how to do updates so posting this separately.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nIt’s been a terrible day.": {
+                "translation": "It’s been a terrible day.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I can’t reach out to my friends yet as I’m ashamed.": {
+                "translation": "I can’t reach out to my friends yet as I’m ashamed.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’m not contacting his father ever!": {
+                "translation": "I’m not contacting his father ever!",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’ve to disentangle myself from ex on leases bank accounts savings and such although my brother made me transfer all of my money from joint accounts savings and daily accounts to my own account.": {
+                "translation": "I’ve to disentangle myself from ex on leases bank accounts savings and such although my brother made me transfer all of my money from joint accounts savings and daily accounts to my own account.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " It’s a mess .": {
+                "translation": "It’s a mess .",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nI tried to ring Dani but she isn’t up for speaking to anyone so I just text her that I was there for her and that I had broken up with Alex.": {
+                "translation": "I tried to ring Dani but she isn’t up for speaking to anyone so I just text her that I was there for her and that I had broken up with Alex.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She hasn’t replied and I don’t expect she will.": {
+                "translation": "She hasn’t replied and I don’t expect she will.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She’s in a bad way apparently.": {
+                "translation": "She’s in a bad way apparently.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "   \n\nDaniel  spent three hours with me today.": {
+                "translation": "Daniel  spent three hours with me today.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " There’s a lot going on but I’m afraid to say too much for fear of damaging any court case.": {
+                "translation": "There’s a lot going on but I’m afraid to say too much for fear of damaging any court case.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  Just to say there are two videos of the “incident” .": {
+                "translation": "Just to say there are two videos of the “incident” .",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " The owners of the rental house apparently have gotten involved and have footage but I can’t say more.": {
+                "translation": "The owners of the rental house apparently have gotten involved and have footage but I can’t say more.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Jebs wife has been “ very helpful” apparently and she has split from him.": {
+                "translation": "Jebs wife has been “ very helpful” apparently and she has split from him.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "   The other guys wife too has left him.": {
+                "translation": "The other guys wife too has left him.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nThings are going how most of you want them to go that’s all I will say .": {
+                "translation": "Things are going how most of you want them to go that’s all I will say .",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " He told me his father told him to stop texting me but he can’t.": {
+                "translation": "He told me his father told him to stop texting me but he can’t.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I haven’t replied or blocked based on “ advice”.": {
+                "translation": "I haven’t replied or blocked based on “ advice”.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  This is very hard and I don’t know what way all this is going to end up.": {
+                "translation": "This is very hard and I don’t know what way all this is going to end up.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Sorry about any mistakes and typos I’m not doing well.": {
+                "translation": "Sorry about any mistakes and typos I’m not doing well.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \nIf there’s more I will post again if I’m able.": {
+                "translation": "If there’s more I will post again if I’m able.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "com/r/Advice/comments/1ffddbb/update_2_my_fiancé_assaulted_his_bff_on_his/)  **Sept 12, 2024** \n\nUpdate 2 my fiancé assaulted his Bff on his bachelor party \n\nHi all my last update my removed but if anyone is interested I thought I’d post the latest and get some advice.": {
+                "translation": "com/r/Advice/comments/1ffddbb/update_2_my_fiancé_assaulted_his_bff_on_his/)  **Sept 12, 2024** \n\nUpdate 2 my fiancé assaulted his Bff on his bachelor party \n\nHi all my last update my removed but if anyone is interested I thought I’d post the latest and get some advice.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Daniel has been ever present and I’m guessing it was because he knew she was going to call.": {
+                "translation": "Daniel has been ever present and I’m guessing it was because he knew she was going to call.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " There’s a lot more to the story.": {
+                "translation": "There’s a lot more to the story.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  Dani was feeling very hungover and gave up after an hour and went back to the airb&b.": {
+                "translation": "Dani was feeling very hungover and gave up after an hour and went back to the airb&b.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She told him she was disgusted with him and that he wasn’t free.": {
+                "translation": "She told him she was disgusted with him and that he wasn’t free.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Marcus convinced her to stay another night as he and Daniel had met the two girls the night before and were seeing them again that night and if Dani wanted to leave then Daniel would have to take her as he was her ride and there wasn’t public transport in the tiny town.": {
+                "translation": "Marcus convinced her to stay another night as he and Daniel had met the two girls the night before and were seeing them again that night and if Dani wanted to leave then Daniel would have to take her as he was her ride and there wasn’t public transport in the tiny town.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " And while Alex hadn’t actually done anything beyond pulling off her clothes ( unlike the other two ) he stood by and watched and did nothing to help her.": {
+                "translation": "And while Alex hadn’t actually done anything beyond pulling off her clothes ( unlike the other two ) he stood by and watched and did nothing to help her.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \nShe said she thought he had taken shrooms  earlier but couldn’t be sure.": {
+                "translation": "She said she thought he had taken shrooms  earlier but couldn’t be sure.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Dani told me she was sorry she didn’t leave  tell me immediately like she wanted to do.": {
+                "translation": "Dani told me she was sorry she didn’t leave  tell me immediately like she wanted to do.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " She is very distraught still I didn’t want to make things worse for her.": {
+                "translation": "She is very distraught still I didn’t want to make things worse for her.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nI don’t think I am needed for any legal proceedings so I finally blocked Alex and his parents.": {
+                "translation": "I don’t think I am needed for any legal proceedings so I finally blocked Alex and his parents.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " And I’m just starting to disentangle myself from Alex on bank accounts and such.": {
+                "translation": "And I’m just starting to disentangle myself from Alex on bank accounts and such.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nHere’s my issue.": {
+                "translation": "Here’s my issue.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’m feeling very angry towards Marcus.": {
+                "translation": "I’m feeling very angry towards Marcus.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " It feels like he didn’t really care about me.": {
+                "translation": "It feels like he didn’t really care about me.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " He didn’t do me the courtesy  of telling me that Alex cheated that morning like he did with the other two wives .": {
+                "translation": "He didn’t do me the courtesy  of telling me that Alex cheated that morning like he did with the other two wives .",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " It’s not like he was sparing my feelings because my ex assaulting another woman was a pretty damn bad thing to hear.": {
+                "translation": "It’s not like he was sparing my feelings because my ex assaulting another woman was a pretty damn bad thing to hear.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " He didn’t tell me the full extent of the attack.": {
+                "translation": "He didn’t tell me the full extent of the attack.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Dani is still unsure if Alex wasn’t just “waiting his turn” or he all he was going to do was watch.": {
+                "translation": "Dani is still unsure if Alex wasn’t just “waiting his turn” or he all he was going to do was watch.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Daniel didn’t know about the escorts at all and didn’t know Marcus hasn’t shared the full story of what they saw when they burst in.": {
+                "translation": "Daniel didn’t know about the escorts at all and didn’t know Marcus hasn’t shared the full story of what they saw when they burst in.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  I need some perspective here.": {
+                "translation": "I need some perspective here.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Is it ok  to be angry at Marcus?": {
+                "translation": "Is it ok  to be angry at Marcus?",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’m pretty angry at Alex though and that’s all I feel towards him.": {
+                "translation": "I’m pretty angry at Alex though and that’s all I feel towards him.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " He’s already back at work so it was messages /texts and occasional calls.": {
+                "translation": "He’s already back at work so it was messages /texts and occasional calls.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " He actually visited last night but I didn’t open the door to him.": {
+                "translation": "He actually visited last night but I didn’t open the door to him.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  Daniel is saying whatever I feel right now is ok.": {
+                "translation": "Daniel is saying whatever I feel right now is ok.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " But I think he’s just placating me.": {
+                "translation": "But I think he’s just placating me.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I don’t know who to trust anymore.": {
+                "translation": "I don’t know who to trust anymore.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " \n\nI don’t have to have any more contact with Alex and think the case will move along without me.": {
+                "translation": "I don’t have to have any more contact with Alex and think the case will move along without me.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I’m thinking of telling Daniel that I need a break from him and Marcus and that group of friends.": {
+                "translation": "I’m thinking of telling Daniel that I need a break from him and Marcus and that group of friends.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " Dani and I have said we will stay in touch but I can’t see us being very close.": {
+                "translation": "Dani and I have said we will stay in touch but I can’t see us being very close.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " My parents agree and think it’s necessary for healing.": {
+                "translation": "My parents agree and think it’s necessary for healing.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " My brother thinks Daniel has been nothing but great and I shouldn’t cut him off.": {
+                "translation": "My brother thinks Daniel has been nothing but great and I shouldn’t cut him off.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            "  But they all seem to be a package deal but without Alex now obviously.": {
+                "translation": "But they all seem to be a package deal but without Alex now obviously.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " So I think it’s probably all or nothing.": {
+                "translation": "So I think it’s probably all or nothing.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            },
+            " I don’t want to be ungrateful but a clean break feels right.": {
+                "translation": "I don’t want to be ungrateful but a clean break feels right.",
+                "detected_lang": "unknown",
+                "detection_method": "error",
+                "confidence": "low"
+            }
+        }
+    },
+    {
+        "url": "https://www.reddit.com/r/AITAH/comments/1jjrlst/aita_for_cancelling_my_wedding_after_my_fiance/",
+        "original_text": "I (28M) and my fiance (30M) have both been dating for around two years. Coming from a culture that didn't approve of same sex unions, I never envisioned myself marrying and starting a family, So I was ecstatic when my fiance proposed to me a few months ago. However, post his proposal, our relationship dynamics changed quickly in a lot of aspects, one such aspect being finances.\n\nPreviously, we would both pay alternatively on dates etc. There would be days when he would pay and spoil me, and there would be days where I would pay and treat him. This was never something that we talked about but we were both comfortable with this arrangement and it never caused any issues. \n\nHowever, after the proposal, we started talking about buying a house, moving in together and starting a family. During this conversation, he made it clear that he wants all finances going into the joint account to be split evenly. Now this would ordinarily not be a point of concern for me, if it weren't for the fact that our pay grades varied significantly.\n\nI am not comfortable sharing our real salaries, so I am going to give hypothetical numbers to explain the situation. For example, lets say I make around 5000 a month but he makes 20k, that's quite a significant difference of pay grades. With the 50-50 proposal he made, if I  were to contribute 2k a month (for example) to our joint account, thats 40% of my income. Whereas for him, the 2k is just 10% of his income.\n\nI told him that this is not fair, and will put a burden on my personal income and savings. Its not an equal division if the amount is the same for both of us, as I will clearly be losing a bigger chunk of my salary. I told him that for it to be equitable, either I too should be allowed to contribute 10% of my salary i.e; 500. Or he should also contribute 40% of his salary = 8000. \n\nHe said that this is crazy, that I am being unfair, unreasonable and weird by trying to make him pay more into our joint account. We tried speaking over it multiple times, but it always ended up in an argument. His friends and family too went nuts when they got to know of this. They called me many things, including a gold digger and accused me of trying to freeload off of him. I am aware that our pay grades and lifestyles are different, but it was never really a problem up until now and we loved each other regardless. But now I am starting to feel like his friends and family who are all well off has always looked down on me and its all coming out now.\n\nMy fiance has not budged either and in every conversation we try to have he has made it clear he reflects the sentiments of his friends and family, and believes I am trying to get away with contributing less to our lives together to live off of him. \n\nThese accusations and endless arguments have been extremely hurtful to me so I ultimately decided to call off our wedding, as I don't  intend to live with someone who looks down on me and buys into the narrative of his closed ones when they called me a literal leech. I don't really think I was being unreasonable when I said that dividing by a certain percentage makes more sense than keeping a fixed amount, given the drastic difference in our earnings. AITA?\n\nUpdate: thank you for all the responses, I am not in the mental space to reply to all but I truly appreciate everyone for their time and advice. My fiance and I spoke one last time, I told him that I am extremely hurt by the accusations thrown my way by him and his gang, and that I do not want to stay with someone who thinks so low of me. Finances aside, this entire ordeal and the way I was treated by the person I loved and his closest family and friends has all been hurtful and made me feel extremely isolated and alone. Even if we get past the finances situation I do not see how I can ever move past the way they all treated me the past few days. I think at this point it would be better for both of us to find people we are compatible with in all aspects. \n\nMy fiance has apologised, told me he understands where I am coming from, and has agreed to visit a counsellor to navigate through this situation. I am currently taking some break from all of this and going back to my hometown to be with my family for some support. I told him i need time to think this through and decide what to do. Thank you once again for all the responses, they've been extremely helpful, sincerely.",
+        "translated_text": "I (28M) and my fiance (30M) have both been dating for around two years. Coming from a culture that didn't approve of same sex unions, I never envisioned myself marrying and starting a family, So I was ecstatic when my fiance proposed to me a few months ago. However, post his proposal, our relationship dynamics changed quickly in a lot of aspects, one such aspect being finances.\n\nPreviously, we would both pay alternatively on dates etc. There would be days when he would pay and spoil me, and there would be days where I would pay and treat him. This was never something that we talked about but we were both comfortable with this arrangement and it never caused any issues. \n\nHowever, after the proposal, we started talking about buying a house, moving in together and starting a family. During this conversation, he made it clear that he wants all finances going into the joint account to be split evenly. Now this would ordinarily not be a point of concern for me, if it weren't for the fact that our pay grades varied significantly.\n\nI am not comfortable sharing our real salaries, so I am going to give hypothetical numbers to explain the situation. For example, lets say I make around 5000 a month but he makes 20k, that's quite a significant difference of pay grades. With the 50-50 proposal he made, if I  were to contribute 2k a month (for example) to our joint account, thats 40% of my income. Whereas for him, the 2k is just 10% of his income.\n\nI told him that this is not fair, and will put a burden on my personal income and savings. Its not an equal division if the amount is the same for both of us, as I will clearly be losing a bigger chunk of my salary. I told him that for it to be equitable, either I too should be allowed to contribute 10% of my salary i.e; 500. Or he should also contribute 40% of his salary = 8000. \n\nHe said that this is crazy, that I am being unfair, unreasonable and weird by trying to make him pay more into our joint account. We tried speaking over it multiple times, but it always ended up in an argument. His friends and family too went nuts when they got to know of this. They called me many things, including a gold digger and accused me of trying to freeload off of him. I am aware that our pay grades and lifestyles are different, but it was never really a problem up until now and we loved each other regardless. But now I am starting to feel like his friends and family who are all well off has always looked down on me and its all coming out now.\n\nMy fiance has not budged either and in every conversation we try to have he has made it clear he reflects the sentiments of his friends and family, and believes I am trying to get away with contributing less to our lives together to live off of him. \n\nThese accusations and endless arguments have been extremely hurtful to me so I ultimately decided to call off our wedding, as I don't  intend to live with someone who looks down on me and buys into the narrative of his closed ones when they called me a literal leech. I don't really think I was being unreasonable when I said that dividing by a certain percentage makes more sense than keeping a fixed amount, given the drastic difference in our earnings. AITA?\n\nUpdate: thank you for all the responses, I am not in the mental space to reply to all but I truly appreciate everyone for their time and advice. My fiance and I spoke one last time, I told him that I am extremely hurt by the accusations thrown my way by him and his gang, and that I do not want to stay with someone who thinks so low of me. Finances aside, this entire ordeal and the way I was treated by the person I loved and his closest family and friends has all been hurtful and made me feel extremely isolated and alone. Even if we get past the finances situation I do not see how I can ever move past the way they all treated me the past few days. I think at this point it would be better for both of us to find people we are compatible with in all aspects. \n\nMy fiance has apologised, told me he understands where I am coming from, and has agreed to visit a counsellor to navigate through this situation. I am currently taking some break from all of this and going back to my hometown to be with my family for some support. I told him i need time to think this through and decide what to do. Thank you once again for all the responses, they've been extremely helpful, sincerely.",
+        "detected_language": "en",
+        "translation_method": "none_needed",
+        "non_english_sentences_count": 0,
+        "translation_details": {}
+    }
+]
